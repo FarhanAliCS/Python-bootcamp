@@ -1,0 +1,5 @@
+#addition function
+def addition(a,b):
+    print(a+b)
+#display
+addition(12,13)

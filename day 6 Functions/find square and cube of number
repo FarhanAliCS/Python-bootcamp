@@ -1,0 +1,12 @@
+#Find  square
+def square(num):
+    print( num**2)
+
+    #find cube
+def cube(num):
+    print( num**3)
+
+#Display
+square(4)
+cube(4)
+
