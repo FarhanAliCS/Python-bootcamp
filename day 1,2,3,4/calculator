@@ -1,0 +1,15 @@
+#Mini calculater 
+num1=int(input("Enter the number :"))
+operater=input("Enter the operator :")
+num2=int(input("Enter the number "))
+
+if operater=='+':
+        print(num1 + num2 )
+elif operater=='-':
+        print(num1-num2)
+elif operater=='*':
+        print(num1*num2)
+elif operater=='/':
+        print(num1/num2)
+elif operater=='%':
+        print(num1%num2)
