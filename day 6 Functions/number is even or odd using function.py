@@ -7,4 +7,4 @@ def OddOrEven():
         print(f'{number} is odd')
 
         #display
-OddOrEven() 
+OddOrEven() #display

@@ -1,13 +1,13 @@
 #Finding vowel in string 
 def Finding_vowel():
-    string=input("Enter the string :")
+    text=input("Enter the string :")
     vowel='aeiou'
     count=0
-    for i in string:
+    for i in text:
         if i in vowel:
             count+=1
     return  count
-    
+    #display
 vowel_count=Finding_vowel()
 print(vowel_count)
 
