@@ -1,7 +1,7 @@
+#Add student
 def add_student(student_names,father_names,ages):
     while True:
-        count=1
-        name=input(f"{count+1} . Enter name of student or enter 'stop' to exit :")
+        name=input(" Enter name of student or enter 'stop' to exit :")
         if name.lower()=='stop':
             break
         if name in student_names:
@@ -19,9 +19,9 @@ def add_student(student_names,father_names,ages):
         father_names.append(father_name)
         ages.append(age)
         print("Contact add succesfully .\n")
-        count+=1
+        
 
-
+#search for student
 def search_student (student_names,father_names,ages):
     search_name=input("Enter your search :")
     for i in range(len(student_names)):
@@ -29,12 +29,16 @@ def search_student (student_names,father_names,ages):
             print(student_names[i],":",father_names[i],":",ages[i])
     if search_name not in student_names:
         print("Contact does not exit .") 
+
+#display all student
 def student_display(student_names,father_names,ages):
     print("======== Student list =======")
     if not student_names:
         print("list is empty")
     for i in range(len(student_names)):
         print(student_names[i],":",father_names[i],":",ages[i])
+
+#Delete speciefic contact 
 def delete_contact(names,father_names,ages):
     name=input("Enter student name to delete :")
     if not names:
@@ -53,10 +57,9 @@ def delete_contact(names,father_names,ages):
                      print("delete succesfully")
          break
 
-    #+================================================
-    #+       
-    #+               MENUE
-    #+
+
+    #+===============================================      
+    #+              MAIN MENUE
     #+===============================================
 names=[]
 father_names=[]

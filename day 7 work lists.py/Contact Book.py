@@ -71,7 +71,6 @@ def delete_contact(names,numbers):
 names=[]
 numbers=[]
 while True:
-   while True:
     print("==========================================================")
     print("==================Main Menue========================")
     print("1. Add contact ")
@@ -106,9 +105,7 @@ while True:
     else:
         print('Invalid choice :please enter menue options ')
 
-   again=input("You wnat to perform another operations? y/n")
-   if again.lower()!='y':
-       break
+   
        
    
 
