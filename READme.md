@@ -230,10 +230,44 @@ Today I learned about tuples and dictionaries in Python. I practiced storing dat
 Today was one of the most interesting days because I learned dictionaries. I also built my first Student Management System using a dictionary and functions.
 
 
+##  Day 9
+
+Today I learned about Python Sets and File Handling.
+
+Topics I practiced:
+- Set operations (add, remove, discard, clear)
+- Searching and updating data
+- Reading and writing files
+- File modes (r, w, a)
+- read(), readline(), readlines()
+- with open() statement
+- Basic file validations
+
+Projects:
+- Student Record Manager
+- Notes App
+- Contact Book using File Handling
+
+This day helped me understand how to store data permanently using files and improve my problem-solving skills with mini projects.
 
 
+##  Day 10
 
+Today I learned about Modules, Packages, Object-Oriented Programming (OOP), and Selection Sort.
 
+Topics I practiced:
+- Creating and importing modules
+- Understanding packages
+- Classes and Objects
+- Attributes and Methods
+- self and __init__()
+- Creating my first OOP programs
+- Selection Sort algorithm
 
+Projects:
+- Student Class using OOP
+- Practice with multiple classes
+- Selection Sort implementation in Python
 
+This day helped me understand how to organize Python code and write cleaner programs using OOP.
 
