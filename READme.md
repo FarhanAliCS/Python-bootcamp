@@ -271,3 +271,43 @@ Projects:
 
 This day helped me understand how to organize Python code and write cleaner programs using OOP.
 
+
+  ## Day 11 Advance OOP and Exception Handling
+
+## 🔒 Encapsulation
+
+* Combines **data** and **methods** into one class.
+* Protects data from direct access.
+* **Public Attribute:** `self.name`
+* **Private Attribute:** `self.__balance`
+* **Getter:** Returns private data.
+* **Setter:** Updates private data after validation.
+
+---
+
+## 👨‍👦 Inheritance
+
+* Child class inherits from a parent class.
+* Reduces code duplication.
+* `super()` calls the parent constructor.
+* **Method Overriding:** Child replaces a parent's method.
+
+---
+
+## ⚠ Exception Handling
+
+* **try:** Code that may cause an error.
+* **except:** Handles the error.
+* **else:** Runs only if no error occurs.
+* **finally:** Always executes.
+* **raise:** Creates a custom exception.
+
+## ✅ Key Points
+
+* Hide sensitive data using private attributes (`__`).
+* Validate data before storing it.
+* Use inheritance to reuse code.
+* Catch specific exceptions before general ones.
+* Use `raise` for custom validation errors.
+
+
