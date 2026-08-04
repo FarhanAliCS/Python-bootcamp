@@ -1,5 +1,8 @@
 import json
+#Class
 class Student:
+    
+    # Constructor
     def __init__(self):
         self.data="student_data.json"
         try:
@@ -8,10 +11,12 @@ class Student:
         except (FileNotFoundError, json.JSONDecodeError):
                self.students={}
 
+# Save to json file
     def save_to_file(self):
        with open(self.data,'w') as file:
           json.dump(self.students,file,indent=4)
 
+# Add students
     def add_students(self):
        while True:
           try:
@@ -106,6 +111,7 @@ class Student:
           print('student add succesfully .')
           print()
 
+# Search student by name
     def search_student(self):
        if not self.students:
           print("Empty dictonary .")
@@ -134,7 +140,7 @@ class Student:
              print()
              break
           
-
+# Display all students
     def show_students(self):
        if not self.students:
           print("Empty dictionary .")
@@ -151,6 +157,7 @@ class Student:
             print(f"GPA           :     {details["GPA"]}")
             print(f"Marks         :     {details["Marks"]}")
 
+# Delete student by name 
     def delete_student(self):
        if not self.students:
           print("Empty dictionary .")
@@ -171,6 +178,7 @@ class Student:
           print("delete succesfully")
           break
 
+#Update student Marks 
     def update_marks(self):
        if not self.students:
           print("Empty dictionary .")
@@ -200,6 +208,8 @@ class Student:
           self.save_to_file()
           print("Marks update succesfully .")
           break
+       
+# Update student semester
     def update_semester(self):
            if not self.students:
               print("Empty dictionary .")
@@ -229,6 +239,8 @@ class Student:
               self.save_to_file()
               print("Semester update succesfully .")
               break
+
+#Update student gpa
     def update_gpa(self):
            if not self.students:
               print("Empty dictionary .")
@@ -258,7 +270,7 @@ class Student:
               self.save_to_file()
               print("GPA update succesfully .")
               break
-
+# Count of total student 
     def total_students(self):
        if not self.students:
           print("Empty dectionary")
@@ -268,6 +280,7 @@ class Student:
           count+=1
        print("Total students are ",count)
 
+# Highest marks and student name 
     def highest_marks(self):
        if not self.students:
           print("Empty dictionary .")
@@ -280,6 +293,7 @@ class Student:
              student_name=name
        print(f"Student name is {student_name} marks is {mix_marks}")
 
+# Lowest marks and student name 
     def lowest_marks(self):
        if not self.students:
           print("Empty dictionary .")
@@ -292,6 +306,7 @@ class Student:
              student_name=name
        print(f"Student name is {student_name} marks is {min_marks} .")
 
+# Average marks of all students
     def average_marks_of_student(self):
        if not self.students:
           print("Empty dictionary .")
@@ -308,6 +323,7 @@ class Student:
           
        
        
+# Search by department 
 
     def search_by_department(self):
        if not self.students:
@@ -339,6 +355,7 @@ class Student:
             print("not found .")
           break
        
+# Search by Roll_No  
     def search_by_roll_no(self):
        if not self.students:
           print("Empty Dictionary .")
