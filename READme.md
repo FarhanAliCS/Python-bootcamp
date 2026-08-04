@@ -311,3 +311,35 @@ This day helped me understand how to organize Python code and write cleaner prog
 * Use `raise` for custom validation errors.
 
 
+
+ ## 📅 Day 12 – Nested Data Structures & JSON
+
+## 📚 Topics Covered
+Nested Lists
+Nested Dictionaries
+JSON (json.dump() & json.load())
+File Handling
+Input Validation
+Exception Handling
+
+## 💻 Project: Student Management System
+ ## Features
+
+➕ Add Student
+📋 Show All Students
+🔍 Search Student
+🏢 Search by Department
+✏️ Update Student Marks
+❌ Delete Student
+💾 Save Data to JSON
+📂 Load Data from JSON
+🎯 What I Learned
+
+Working with nested lists and nested dictionaries
+Storing structured data efficiently
+Saving and loading data using JSON
+Building a CRUD application using OOP, loops, functions, and exception handling
+
+Day 12 Complete ✅
+
+
