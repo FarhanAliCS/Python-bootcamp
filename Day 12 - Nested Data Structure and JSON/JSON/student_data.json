@@ -1,0 +1,14 @@
+{
+    "Farhan Ali": {
+        "Age": 20,
+        "Department": "Computer Science",
+        "Semester": 5,
+        "Marks": 95
+    },
+    "Ashraf Ali": {
+        "Age": 21,
+        "Department": "Computer Science",
+        "Semester": 5,
+        "Marks": 94
+    }
+}
