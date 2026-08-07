@@ -10,15 +10,15 @@ class Employes:
         except ( FileNotFoundError, json.JSONDecodeError):
            self.employe={}
 
-# Save data to json file
 
+# Save data to json file
     def save_to_file(self):
        with open(self.data,'w') as file:
           json.dump(self.employe,file,indent= 4)
 
 
-# Add new employee
 
+# Add new employee
     def add_employ(self):
              while True:
                  try:
@@ -77,8 +77,8 @@ class Employes:
                  self.save_to_file()
                  print("Employee add succesfully .")
     
-# Print all employes
 
+# Print all employes
     def show_data(self):
        if not self.employe:
           print("Empty dictionary .")
@@ -92,6 +92,8 @@ class Employes:
           print(f"Salary     :      {details["Salary"]}")
           print(f"Depatment  :      {details["Department"]}")
 
+
+
 #Showing detils in some places like searching and updating emloyee
     def display(self,id,details):
             print(f"===== Employe ====== ")
@@ -99,8 +101,9 @@ class Employes:
             print(f"Name       :      {details["Name"]}")
             print(f"Salary     :      {details["Salary"]}")
             print(f"Depatment  :      {details["Department"]}")
-#Search Employee by id
 
+
+#Search Employee by id
     def search_employee(self):
         if not self.employe:
             print("Empty dictionary .")
@@ -121,6 +124,9 @@ class Employes:
                 details=self.employe[search]
                 self.display(search,details)
                 break
+
+
+#Delete employee
     def delete_employee(self):
         if not self.employe:
             print("Empty dictionary .")
@@ -144,6 +150,9 @@ class Employes:
                     self.save_to_file()
                     print("Delete succesfully .")
                     break
+
+
+#Search by name
     def search_by_name(self):
         if not self.employe:
            print("Empty dictionary .")
@@ -168,7 +177,7 @@ class Employes:
                    print("No employee on name ",name)
              break
                
-
+#Update Name
     def update_name(self):
         if not self.employe:
             print("Empty dictionary .")
@@ -200,14 +209,15 @@ class Employes:
          if not found:
              print("Not found .")
          break
-        
+
+#Update salary
     def update_salary(self):
         if not self.employe:
             print("Empty dictionary .")
             return
         while True:
          try:
-            update=input("Input Employee id to update name :")
+            update=input("Input Employee id  :")
             if update.replace(" "," ").isalpha():
                raise ValueError("Id must be an integer .")
          except ValueError as e:
@@ -234,7 +244,7 @@ class Employes:
              print("Not found .")
          break
 
-
+#Update department
     def update_department(self):
         if not self.employe:
             print("Empty dictionary .")
@@ -269,6 +279,9 @@ class Employes:
          if not found:
              print("Not found .")
          break
+
+
+#Total employees
     def total_employee(self):
         if not self.employe:
             print("Empty dictionary .")
