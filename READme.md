@@ -343,3 +343,322 @@ Building a CRUD application using OOP, loops, functions, and exception handling
 Day 12 Complete ✅
 
 
+## 📅 Day 13 — Advanced File Handling & Exception Handling
+
+### 🎯 Topics Covered
+
+* File modes
+* `try`
+* `except`
+* `else`
+* `finally`
+* `raise`
+* Input validation
+* Functions for validation
+* File-based data handling
+
+### 📂 File Modes
+
+I learned how different file modes work:
+
+| Mode | Purpose          |
+| ---- | ---------------- |
+| `r`  | Read a file      |
+| `w`  | Write to a file  |
+| `a`  | Append to a file |
+| `r+` | Read and write   |
+| `w+` | Write and read   |
+| `a+` | Append and read  |
+
+Understanding file modes helped me learn how Python interacts with files and how data can be stored permanently.
+
+### ⚠️ Exception Handling
+
+I practiced handling errors using:
+
+```python
+try:
+    # code that may cause an error
+except:
+    # handle the error
+else:
+    # runs when there is no error
+finally:
+    # always runs
+```
+
+I also learned how to manually generate errors using:
+
+```python
+raise ValueError("Invalid input")
+```
+
+### 📝 Mini Project — Notes Manager
+
+I created a **Notes Manager** that allows the user to:
+
+* Add a note
+* Show all notes
+* Count notes
+* Count words
+* Count vowels
+* Count consonants
+* Search notes
+* Exit the program
+
+This project helped me combine:
+
+* Functions
+* Loops
+* Strings
+* Lists
+* File handling
+* Exception handling
+* Validation
+
+### 💡 Important Lesson
+
+One important problem I encountered was a validation function returning `None` when I expected it to return a value.
+
+This helped me understand that a function without an explicit `return` statement automatically returns:
+
+```python
+None
+```
+
+---
+
+# 📅 Day 14 — Lists of Dictionaries & Data Processing
+
+### 🎯 Topics Covered
+
+* Lists of dictionaries
+* `sorted()`
+* `lambda`
+* `filter()`
+* `map()`
+* Data processing
+* Sorting structured data
+
+I learned how Python can store structured information using a **list of dictionaries**.
+
+Example:
+
+```python
+students = [
+    {"Name": "Farhan", "Marks": 85},
+    {"Name": "Ahmed", "Marks": 70},
+    {"Name": "Ashraf", "Marks": 90},
+    {"Name": "Ali", "Marks": 60}
+]
+```
+
+Each dictionary represents one student, while the list stores all students.
+
+### 🔢 Sorting Students
+
+I practiced sorting students according to their marks:
+
+```python
+result = sorted(
+    students,
+    key=lambda student: student["Marks"],
+    reverse=True
+)
+```
+
+This taught me how `lambda` can be used to tell Python **what value should be used for sorting**.
+
+### 🏆 Top 3 Students
+
+I also practiced finding the top students by marks using:
+
+```python
+sorted()
+```
+
+and:
+
+```python
+enumerate()
+```
+
+This was useful for understanding how real-world data can be processed and ranked.
+
+### 💡 Important Lesson
+
+I learned that a list of dictionaries is very useful when working with structured information such as:
+
+* Students
+* Employees
+* Products
+* Customers
+* Books
+* Orders
+
+---
+
+# 📅 Day 15 — Date & Time in Python
+
+### 🎯 Topics Covered
+
+* `datetime` module
+* Current date
+* Current date and time
+* Date components
+* `strftime()`
+* `strptime()`
+* Date comparison
+* Calculating age
+* Calculating date differences
+
+### 📦 Importing datetime
+
+```python
+import datetime
+```
+
+### 📅 Current Date
+
+```python
+today = datetime.date.today()
+```
+
+Example:
+
+```text
+2026-08-18
+```
+
+### 🕒 Current Date and Time
+
+```python
+now = datetime.datetime.now()
+```
+
+This provides information such as:
+
+```python
+now.year
+now.month
+now.day
+now.hour
+now.minute
+now.second
+```
+
+### 🔄 `strptime()`
+
+I learned that `strptime()` converts a **string into a datetime object**.
+
+Example:
+
+```python
+birth = datetime.datetime.strptime(
+    "15-08-2000",
+    "%d-%m-%Y"
+)
+```
+
+### 🔄 `strftime()`
+
+I learned that `strftime()` converts a **date/time object into a formatted string**.
+
+The main difference I learned is:
+
+```text
+strptime → String → Date/Time
+strftime → Date/Time → String
+```
+
+### 🎂 Age Calculator
+
+I practiced creating an age calculator using a user's birth date.
+
+The program calculates:
+
+* Current age
+* Whether the birthday has occurred this year
+* Days remaining until the next birthday
+
+I also learned how tuple comparison can be used:
+
+```python
+if (today.month, today.day) < (birth.month, birth.day):
+    age -= 1
+```
+
+This helped me understand how Python compares values from left to right.
+
+### 💡 Important Lesson
+
+Working with dates taught me that dates are not just strings. Python provides special objects and operations for comparing and calculating dates.
+
+---
+
+# 📅 Day 16 — `os` Module & File/Folder Management
+
+### 🎯 Topics Covered
+
+* `os` module
+* Current working directory
+* Listing files and folders
+* `os.getcwd()`
+* `os.listdir()`
+* `enumerate()`
+* Identifying files and folders
+* File and folder management
+
+### 📦 Importing the Module
+
+```python
+import os
+```
+
+### 📍 Current Working Directory
+
+I learned how to find the directory in which Python is currently working:
+
+```python
+os.getcwd()
+```
+
+This returns the current working directory.
+
+### 📂 List Files and Folders
+
+I learned:
+
+```python
+os.listdir()
+```
+
+It returns the files and folders inside the current directory.
+
+I combined it with `enumerate()` to display items with numbers:
+
+```python
+for number, item in enumerate(os.listdir(), start=1):
+    print(number, item)
+```
+
+### 📁 Identifying Files and Folders
+
+I practiced checking whether an item is a file or a directory.
+
+This helped me understand that Python can interact with the computer's file system instead of only working with data inside the program.
+
+### 💡 Important Lesson
+
+The `os` module is useful for automation and file-system tasks such as:
+
+* Finding files
+* Listing directories
+* Creating folders
+* Renaming files
+* Moving files
+* Checking paths
+* Working with directories
+
+---
+
