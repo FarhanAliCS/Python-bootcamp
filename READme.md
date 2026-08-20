@@ -662,3 +662,56 @@ The `os` module is useful for automation and file-system tasks such as:
 
 ---
 
+
+# 🐍 Day 17 — `shutil` Module & File Management
+
+Today I learned how to use Python's **`shutil` module** for managing files and folders. I also combined it with the `os` module to build a simple **File Organizer**.
+
+## 🎯 Topics Learned
+
+* `shutil.copy()` — copy a file
+* `shutil.copy2()` — copy a file with metadata
+* `shutil.copytree()` — copy an entire folder
+* `shutil.move()` — move files or folders
+* `shutil.rmtree()` — delete a folder and its contents
+* `os.path.join()` — create file paths
+* `os.path.splitext()` — separate filename and extension
+* `os.path.exists()` — check whether something exists
+
+## 📂 File Organizer
+
+I created a program that checks files in the current directory and moves them into folders based on their extensions.
+
+Example:
+
+```text
+photo.jpg  →  jpg or png files/
+data.csv   →  csv files/
+program.py →  python files/
+notes.txt  →  text files/
+```
+
+The basic process is:
+
+```text
+List files
+   ↓
+Check extension
+   ↓
+Choose folder
+   ↓
+Create folder if needed
+   ↓
+Move file
+```
+
+## 💡 What I Learned
+
+The main lesson was how **`os` and `shutil` work together**.
+
+* `os` → find and check files/folders
+* `shutil` → copy, move, and delete them
+
+Day 17 was an important step toward **Python automation and real-world file management**.
+
+
