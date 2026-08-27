@@ -715,3 +715,196 @@ The main lesson was how **`os` and `shutil` work together**.
 Day 17 was an important step toward **Python automation and real-world file management**.
 
 
+###   Day 18 — Python Modules & Collections
+
+
+Today I learned **Python Modules** and the **`collections` module**.
+
+* **Modules:** Used to organize and reuse Python code. I practiced `import`, `from ... import`, and aliases like `import math as m`.
+* **`__name__ == "__main__"`:** Used to make code run only when a file is executed directly.
+* **`Counter`:** Used to count items such as words or characters.
+* **`most_common(3)`:** Finds the top 3 most frequent items.
+
+Example:
+
+```python
+from collections import Counter
+
+words = input("Enter sentence: ").lower().split()
+count = Counter(words)
+
+print(count)
+print(count.most_common(3))
+```
+
+**Day 18 Complete ✅**
+
+
+
+
+# 🐍 Day 19 — Regular Expressions (`re`)
+
+Today I learned **Regular Expressions (Regex)** in Python using the `re` module. Regex is used to search, extract, validate, and replace patterns in text. It is useful for text processing, data cleaning, validation, and later AI/ML work.
+
+## 🔹 Main Functions
+
+```python
+import re
+```
+
+* `re.search()` → searches for a pattern anywhere in the text.
+* `re.match()` → checks for a pattern at the beginning.
+* `re.findall()` → finds all matching patterns and returns them as a list.
+* `re.sub()` → finds and replaces matching patterns.
+
+## 🔹 Important Patterns
+
+| Pattern | Meaning         |
+| ------- | --------------- |
+| `\d`    | Digit           |
+| `\w`    | Word character  |
+| `\s`    | Whitespace      |
+| `+`     | One or more     |
+| `*`     | Zero or more    |
+| `^`     | Beginning       |
+| `$`     | End             |
+| `{9}`   | Exactly 9 times |
+| `\.`    | Actual dot      |
+
+## 🔹 Practice
+
+I practiced extracting numbers:
+
+```python
+result = re.findall(r"\d+", text)
+```
+
+Checking whether text starts with a number:
+
+```python
+re.findall(r"^\d+", text)
+```
+
+Checking whether text ends with a number:
+
+```python
+re.findall(r"\d+$", text)
+```
+
+I also created a Pakistani phone-number validator:
+
+```python
+pattern = r"^03\d{9}$"
+```
+
+This checks that the number starts with `03` and contains exactly 11 digits.
+
+I also practiced a simple email pattern:
+
+```python
+pattern = r"^\w+@\w+\.com$"
+```
+
+## 🎯 Key Learning
+
+The most important thing I learned today is that **Regex describes a pattern**, not just specific text.
+
+For example:
+
+```text
+\d+   → one or more digits
+^     → beginning
+$     → end
+\.    → actual dot
+```
+
+Regex will be very useful for **text processing, data cleaning, validation, and AI/ML projects**.
+
+
+
+
+
+### 🐍 Day 20 — Iterators & Generators
+
+Today I learned how Python processes data one item at a time using iterators and generators.
+
+📌 Iterables & Iterators
+
+An iterable is something that can be looped over, such as a list, string, tuple, set, dictionary, or file.
+
+An iterator gives us values one at a time.
+
+numbers = [10, 20, 30]
+
+iterator = iter(numbers)
+
+print(next(iterator))
+print(next(iterator))
+print(next(iterator))
+iter() → converts an iterable into an iterator.
+next() → gets the next value.
+StopIteration → occurs when no values remain.
+
+A for loop automatically handles this process.
+
+📌 Custom Iterators
+
+I learned that we can create our own iterators using:
+
+__iter__()
+__next__()
+
+__iter__() returns the iterator, while __next__() controls what value is produced next.
+
+📌 Generators
+
+A generator is an easier way to create an iterator. It uses the yield keyword.
+
+def numbers():
+    yield 1
+    yield 2
+    yield 3
+
+Unlike return, yield pauses the function and remembers its position. When next() is called again, the function continues from where it stopped.
+
+📌 Generator Expressions
+
+Generator expressions are similar to list comprehensions but use parentheses:
+
+squares = (x * x for x in range(5))
+
+They produce values one at a time instead of creating the complete list immediately.
+
+📌 Practical File Processing
+
+I practiced using a generator to read a file and yield only lines containing "python":
+
+def generator():
+    with open("text.txt", "r") as file:
+        for line in file:
+            if "python" in line.lower():
+                yield line
+
+This is useful for processing large files and datasets efficiently because data can be handled one item at a time.
+
+🧠 Key Difference
+Iterable
+   ↓
+iter()
+   ↓
+Iterator
+   ↓
+next()
+   ↓
+one value at a time
+Generator
+   ↓
+yield
+   ↓
+value → pause → next() → continue
+⭐ Main Lesson
+
+An iterator produces values one at a time, while a generator is an easy and memory-efficient way to create an iterator using yield.
+
+
+
