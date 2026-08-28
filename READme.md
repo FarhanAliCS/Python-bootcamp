@@ -908,3 +908,54 @@ An iterator produces values one at a time, while a generator is an easy and memo
 
 
 
+#  Day 21 — Python Decorators
+
+Today I learned **Decorators** in Python. Decorators allow us to add extra behavior to a function without changing its original code.
+
+### 📚 Topics Covered
+
+* Functions as Objects
+* Functions as Arguments
+* Creating Decorators
+* Understanding `wrapper()`
+* `@` Decorator Syntax
+* Decorators with Arguments
+* Returning Values
+* Practical uses of Decorators
+
+### 🛠️ Practice Projects
+
+**1. Execution Timer Decorator**
+Created a decorator to measure and display the execution time of a function.
+
+**2. Age Checker Decorator**
+Created a decorator that checks the user's age before allowing access to a movie-watching function.
+
+### 💡 Why Decorators?
+
+Decorators are useful for adding reusable behavior such as:
+
+* Logging
+* Authentication
+* Validation
+* Timing
+* Permission checking
+
+### 🎯 Key Learning
+
+```text
+@decorator
+function()
+```
+
+is essentially:
+
+```text
+function = decorator(function)
+```
+
+A decorator **wraps a function and adds extra functionality without modifying the original function.**
+
+
+
+
