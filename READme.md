@@ -957,5 +957,34 @@ function = decorator(function)
 A decorator **wraps a function and adds extra functionality without modifying the original function.**
 
 
+# 🐍 Day 22 — Lambda + map() + filter() + sorted() + reduce()
+
+Today I learned five useful Python tools for data processing:
+
+* **Lambda** → creates small functions.
+* **filter()** → selects items based on a condition.
+* **map()** → transforms every item.
+* **sorted()** → sorts data.
+* **reduce()** → combines multiple values into one.
+
+### 🏆 Mini Project
+
+Created a **Student Marks Analyzer** that filters passed students, adds bonus marks, sorts them, and calculates total, highest, and average marks.
+
+### 🧠 Key Idea
+
+```text
+lambda → function
+filter → select
+map → transform
+sorted → organize
+reduce → combine
+```
+
+
+
+
+
+
 
 
