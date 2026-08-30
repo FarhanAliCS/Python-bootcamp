@@ -1,4 +1,5 @@
-
+def greet():
+    print("HIllo Friends")
 
 def decorator(function):
     def wrapper():
@@ -7,10 +8,7 @@ def decorator(function):
         print("After function ")
     return wrapper
 
-@decorator
-def greet():
-    print("Hillo everyone .")
-
+greet=decorator(greet)
 greet()
 
 

@@ -4,6 +4,7 @@ def decorator(function):
         function()
         print("After function execution .")
     return wrapper
+
 @decorator
 def hillo():
     print("Hillo every one .")

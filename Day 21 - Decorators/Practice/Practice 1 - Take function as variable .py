@@ -2,5 +2,5 @@
 def greet():
     print("Hillo Python")
 
-result = greet()
+result = greet
 result()

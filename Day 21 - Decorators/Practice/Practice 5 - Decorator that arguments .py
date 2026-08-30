@@ -1,8 +1,8 @@
 def decorator(function):
     def wrapper(*args ,**kwargs):
-        print("Beofore .")
+        print("Before fuction .")
         function(*args , ** kwargs)
-        print("After .")
+        print("After function.")
     return wrapper
 
 @decorator
