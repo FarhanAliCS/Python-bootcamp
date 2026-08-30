@@ -981,6 +981,25 @@ sorted → organize
 reduce → combine
 ```
 
+# 🐍 Day 23 — Comprehensions
+
+Today I learned **List, Dictionary, and Set Comprehensions**.
+
+### 📚 Topics
+
+* **List Comprehension** → Create lists in one line.
+* **Dictionary Comprehension** → Create key-value pairs in one line.
+* **Set Comprehension** → Create sets with unique values.
+* Used **conditions** inside comprehensions to filter data.
+
+### 🧠 Key Learning
+
+Comprehensions make Python code **shorter, cleaner, and easier to read**.
+
+I also learned that **sets are unordered**, so their elements may appear in different positions when printed.
+
+**Day 23 completed! 🚀**
+
 
 
 
