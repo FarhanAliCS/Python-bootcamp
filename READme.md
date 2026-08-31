@@ -1003,7 +1003,31 @@ I also learned that **sets are unordered**, so their elements may appear in diff
 
 
 
+### Day 24 — Datetime & Time Handling
 
+Today I learned how to work with dates and time in Python using the datetime module.
 
+📚 Topics Covered
+datetime.date.today() — getting today's date
+datetime.datetime.now() — getting current date and time
+strptime() — converting user input from string to date
+Date comparison
+Subtracting dates to calculate the number of days
+Using conditions to handle different deadline situations
 
+# Mini Project — Deadline Manager
 
+I built a Deadline Manager that:
+
+Takes a task name from the user
+Takes a deadline as DD-MM-YYYY
+Calculates the remaining days
+Detects if the deadline has passed
+Detects if the deadline is today
+Shows the number of days remaining
+
+## What I Learned
+
+The main focus was not only learning datetime, but also improving my problem-solving and conditional logic by thinking about different deadline situations.
+
+Day 24 completed ✅
