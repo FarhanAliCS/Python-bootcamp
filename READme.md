@@ -1031,3 +1031,46 @@ Shows the number of days remaining
 The main focus was not only learning datetime, but also improving my problem-solving and conditional logic by thinking about different deadline situations.
 
 Day 24 completed ✅
+
+
+
+#  Day 25 — pathlib & File Manager
+
+Today I learned **`pathlib`**, Python’s modern way to work with files and folders. It makes file and folder operations cleaner and easier compared to traditional `os.path` methods.
+
+## 📚 Topics Covered
+
+* `Path()` — Create a path object
+* `exists()` — Check if a file or folder exists
+* `mkdir()` — Create a folder
+* `iterdir()` — Get items inside a folder
+* `glob()` — Find files using patterns like `*.txt`
+* `is_file()` — Check if an item is a file
+* `is_dir()` — Check if an item is a folder
+* `touch()` — Create a file
+* `rename()` — Rename a file
+* `unlink()` — Delete a file
+* `/` — Join paths easily
+
+## 🛠️ Mini Project — File Manager
+
+I built a simple **File Manager** using `pathlib`.
+
+The program can:
+
+1. Show all files
+2. Find `.txt` files
+3. Create a file
+4. Rename a file
+5. Delete a file
+6. Exit the program
+## 🧠 Key Learning
+
+I learned that `Path` creates a path object, while methods such as `exists()`, `touch()`, `rename()`, and `unlink()` allow me to perform operations on files and folders.
+
+I also practiced combining multiple `pathlib` methods to build a real working project and improve my programming logic.
+
+## 🎯 Goal
+
+The main goal of Day 25 was not only to learn `pathlib`, but also to improve my **problem-solving and programming thinking** by building a practical file management program.
+
