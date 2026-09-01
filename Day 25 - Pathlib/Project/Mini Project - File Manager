@@ -1,0 +1,101 @@
+from pathlib import Path
+while True:
+    print("---------- File Manager --------------")
+    print("1. Show all files ")
+    print("2. Find.txt files ")
+    print("3. Create a file ")
+    print("4. Rename a file ")
+    print("5. Delete a file ")
+    print("--------------------------------------")
+    choice=input("Enter your choice :")
+    folder=Path("Practice")
+    if choice == '1':
+        if folder.exists():
+
+            for name in folder.iterdir():
+                   
+                if name.is_file():
+                    print(name)
+
+        else:
+
+            print("Folder not found .")
+
+    elif choice == '2':
+
+        if folder.exists():
+            txt_file=folder.glob("*.txt")
+
+            for name in txt_file:
+                print(name)
+
+        else:
+            print("file no found .")
+
+    elif choice == '3':
+        if folder.exists():
+
+            file_name=input("Enter file name to create :")
+
+            files=folder/file_name
+            if not files.exists():
+               
+               
+               files.touch()
+
+               print("Files created succesfully .")
+
+            else:
+
+                print("File already exist .")
+
+        else:
+
+            print("folder not exists ")
+    elif choice == '4':
+
+        if folder.exists():
+            file_name=input("Enter file name :")
+
+            file=folder/file_name
+
+            if file.exists():
+
+                new_name=input("Enter new name :")
+
+                file.rename(folder/new_name)
+
+                print("File name updated succesfully .")
+
+            else:
+
+                print("File not found .")
+
+        else:
+            print("Folder not found .")
+
+    elif choice == '5':
+        if folder.exists():
+
+            file_name=input("Enter file name to delete :")
+
+            file=folder/file_name
+            
+            if file.exists():
+
+                file.unlink()
+
+                print("File delete succesfully .")
+
+            else:
+                print("file not found .")
+
+        else:
+            print("Folder not found .")
+
+    elif choice == '6':
+        print("Program ended .")
+        break
+    else:
+        print("Invalid input . try again !")
+                
