@@ -1074,3 +1074,76 @@ I also practiced combining multiple `pathlib` methods to build a real working pr
 
 The main goal of Day 25 was not only to learn `pathlib`, but also to improve my **problem-solving and programming thinking** by building a practical file management program.
 
+
+
+# 🐍 Day 26 — Python Logging
+
+## 📚 What I Learned
+
+Today I learned Python's **`logging` module** and how logging is used to record what is happening inside a program.
+
+### 🔹 Logging Basics
+
+Learned about:
+
+* `logging.info()`
+* `logging.warning()`
+* `logging.error()`
+* `logging.critical()`
+* `logging.exception()`
+* Logging levels and their purpose
+
+### 🔹 Logging Configuration
+
+Learned how to configure logging using:
+
+* `logging.basicConfig()`
+* `level`
+* `filename`
+* `format`
+* `filemode`
+
+Also learned how to create custom loggers using:
+
+`logging.getLogger(__name__)`
+
+### 🔹 Handlers & Formatters
+
+Learned how to send logs to different destinations:
+
+* `FileHandler` → saves logs to a file
+* `StreamHandler` → displays logs in the terminal
+* `Formatter` → controls the appearance of log messages
+
+I also learned the difference between **logger levels and handler levels**.
+
+---
+
+## 🚀 Project — Bank Management System
+
+For practice, I upgraded a Bank Management System using:
+
+* OOP
+* JSON file handling
+* Exception handling
+* Input validation
+* Custom logging
+* File and terminal handlers
+
+### Features
+
+* Create Account
+* Deposit Money
+* Withdraw Money
+* Check Balance
+* Search Account
+* Save account data in JSON
+
+The project records important events and errors in `Bank.log`, making the application easier to monitor and debug.
+
+## 🎯 Key Learning
+
+The biggest lesson from this day was understanding that logging is better than using `print()` for tracking program activity because logs can contain **timestamps, levels, errors, and useful debugging information**.
+
+**Day 26 completed — Python Logging + Practical Bank Project. 🐍🔥**
+
