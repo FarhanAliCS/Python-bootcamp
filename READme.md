@@ -1147,3 +1147,29 @@ The biggest lesson from this day was understanding that logging is better than u
 
 **Day 26 completed — Python Logging + Practical Bank Project. 🐍🔥**
 
+
+
+
+# Day 27 — Type Hints & Dataclasses
+
+## 📚 What I Learned
+
+* **Type Hints** — Used `str`, `int`, `float`, `list[Student]`, and return types to make code easier to understand.
+* **Dataclasses** — Used `@dataclass` to create a simple `Student` class for storing student data.
+* Learned the difference between **one object** (`Student`) and a **list of objects** (`students`).
+
+## 🛠️ Project — Student Management System
+
+Created a menu-based system that can:
+
+* Add students
+* Show all students
+* Find students
+* Show passed students
+* Find highest marks
+* Calculate average marks
+* Exit the program
+
+**Main concept:** `Student` represents one student, while `students` stores multiple students.
+
+
