@@ -11,6 +11,7 @@ class Student:
 
 
 students: list[Student]=[]
+
 def add_student() -> None:
     name=input("Enter student name :")
     age=int(input("Enter student age :"))
@@ -34,10 +35,15 @@ def find_student():
     if not students:
         print("Empty list ")
         return
+    
     search_name=input("Enter student name to search :")
+    found=False
     for student in students:
         if student.name == search_name:
             print(student)
+            found=True
+    if not found:
+        print("Not found .")
 
 def passed_students() -> None:
     if not students:
@@ -70,13 +76,13 @@ def average_marks() -> None:
     total=0
     for student in students:
         total+=student.marks
-        average=total/len(students)
+
+    average=total/len(students)
 
     print("Average Marks :",average)
 
 
 
-student=Student("",0,0.0)
 while True:
     print("------------ Student Managment Systme ------------")
     print("1. Add Student ")
