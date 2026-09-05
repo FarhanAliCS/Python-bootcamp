@@ -13,9 +13,12 @@ class UserValidationCheck(unittest.TestCase):
           self.assertTrue(main.validate_age(24))
           self.assertFalse(main.validate_age(17))
 
+     def test_createUser(self):
+          self.assertTrue(main.create_user("Farhan",18))
+          with self.assertRaises(ValueError):
+               main.create_user("Ali",14)
           
           
-
 
 if __name__ == "__main__":
     unittest.main()
