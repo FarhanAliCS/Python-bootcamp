@@ -3,7 +3,11 @@ My Python journey toward AI and Machine learning .
 <br>
 Author = Farhan Ali
 
-  # Day 1 -2 - Python Basics
+
+
+
+
+  # Day 1 - Python Basics
 About
 This is my Day 1 of learning Python. I practiced the basic concepts of Python and wrote simple programs to understand how Python works.
 
@@ -24,7 +28,12 @@ How to take input from the user
 How to print output
 How to perform basic calculations
 
- # Day 3 - If Else
+
+
+
+
+
+ # Day 2 - 3 - Opweation and User Input and If Else
 
 ## About
 Today I learned how to make decisions in Python using if, elif and else statements.
@@ -43,6 +52,11 @@ Today I learned how to make decisions in Python using if, elif and else statemen
 * How to use conditions
 * How to make decisions in a program
 * How to solve simple logic problems
+
+
+
+
+
 
 #  Day 4 - Loops
 
@@ -68,6 +82,11 @@ Today I learned loops in Python. I practiced both for loop and while loop by sol
 * Difference between for and while loop
 * When to use break and continue
 
+
+
+
+
+
 #  Day 5 - Strings
 ## About
 Today I learned about strings in Python. I practiced different string operations and solved some beginner-level problems.
@@ -90,6 +109,9 @@ Today I learned about strings in Python. I practiced different string operations
 * How to use built-in string methods
 * How to work with user input
 * How to solve simple string problems
+
+
+
 
 #  Day 6 - Functions
 
@@ -130,6 +152,11 @@ Today I learned about functions in Python. I practiced creating my own functions
 ## Note
 
 This was my first time writing bigger programs using multiple functions. I tried to solve every problem by myself and learned a lot from fixing my own mistakes.
+
+
+
+
+
 
 # Day 7 - Lists
 
@@ -178,6 +205,10 @@ Today I learned about Python lists. I practiced storing multiple values in a sin
 ## Note
 
 Lists are very useful because they can store multiple values. I also created my first Contact Book project using lists and functions to improve my programming skills.
+
+
+
+
 
 
 # Day 8 - Tuples & Dictionaries
@@ -230,7 +261,12 @@ Today I learned about tuples and dictionaries in Python. I practiced storing dat
 Today was one of the most interesting days because I learned dictionaries. I also built my first Student Management System using a dictionary and functions.
 
 
-##  Day 9
+
+
+
+
+
+##  Day 9 Sets and File Handling
 
 Today I learned about Python Sets and File Handling.
 
@@ -270,6 +306,12 @@ Projects:
 - Selection Sort implementation in Python
 
 This day helped me understand how to organize Python code and write cleaner programs using OOP.
+
+
+
+
+
+
 
 
   ## Day 11 Advance OOP and Exception Handling
@@ -428,6 +470,11 @@ None
 
 ---
 
+
+
+
+
+
 # 📅 Day 14 — Lists of Dictionaries & Data Processing
 
 ### 🎯 Topics Covered
@@ -497,6 +544,13 @@ I learned that a list of dictionaries is very useful when working with structure
 * Orders
 
 ---
+
+
+
+
+
+
+
 
 # 📅 Day 15 — Date & Time in Python
 
@@ -596,6 +650,11 @@ Working with dates taught me that dates are not just strings. Python provides sp
 
 ---
 
+
+
+
+
+
 # 📅 Day 16 — `os` Module & File/Folder Management
 
 ### 🎯 Topics Covered
@@ -661,6 +720,11 @@ The `os` module is useful for automation and file-system tasks such as:
 * Working with directories
 
 ---
+
+
+
+
+
 
 
 # 🐍 Day 17 — `shutil` Module & File Management
@@ -742,6 +806,10 @@ print(count.most_common(3))
 
 
 
+
+
+
+
 # 🐍 Day 19 — Regular Expressions (`re`)
 
 Today I learned **Regular Expressions (Regex)** in Python using the `re` module. Regex is used to search, extract, validate, and replace patterns in text. It is useful for text processing, data cleaning, validation, and later AI/ML work.
@@ -819,6 +887,9 @@ $     → end
 ```
 
 Regex will be very useful for **text processing, data cleaning, validation, and AI/ML projects**.
+
+
+
 
 
 
@@ -908,6 +979,10 @@ An iterator produces values one at a time, while a generator is an easy and memo
 
 
 
+
+
+
+
 #  Day 21 — Python Decorators
 
 Today I learned **Decorators** in Python. Decorators allow us to add extra behavior to a function without changing its original code.
@@ -957,6 +1032,10 @@ function = decorator(function)
 A decorator **wraps a function and adds extra functionality without modifying the original function.**
 
 
+
+
+
+
 # 🐍 Day 22 — Lambda + map() + filter() + sorted() + reduce()
 
 Today I learned five useful Python tools for data processing:
@@ -981,6 +1060,9 @@ sorted → organize
 reduce → combine
 ```
 
+
+
+
 # 🐍 Day 23 — Comprehensions
 
 Today I learned **List, Dictionary, and Set Comprehensions**.
@@ -999,6 +1081,9 @@ Comprehensions make Python code **shorter, cleaner, and easier to read**.
 I also learned that **sets are unordered**, so their elements may appear in different positions when printed.
 
 **Day 23 completed! 🚀**
+
+
+
 
 
 
@@ -1031,6 +1116,11 @@ Shows the number of days remaining
 The main focus was not only learning datetime, but also improving my problem-solving and conditional logic by thinking about different deadline situations.
 
 Day 24 completed ✅
+
+
+
+
+
 
 
 
@@ -1073,6 +1163,12 @@ I also practiced combining multiple `pathlib` methods to build a real working pr
 ## 🎯 Goal
 
 The main goal of Day 25 was not only to learn `pathlib`, but also to improve my **problem-solving and programming thinking** by building a practical file management program.
+
+
+
+
+
+
 
 
 
@@ -1171,5 +1267,52 @@ Created a menu-based system that can:
 * Exit the program
 
 **Main concept:** `Student` represents one student, while `students` stores multiple students.
+
+
+
+
+
+
+# 🐍 Day 28 — Unit Testing with `unittest`
+
+## 📚 What I Learned
+
+Today I learned how to automatically test Python code using the built-in `unittest` module instead of checking results manually.
+
+### 🔹 Main Concepts
+
+* `unittest` — Python's built-in testing framework.
+* `TestCase` — Used to create test classes.
+* `setUp()` — Prepares data before each test.
+* `assertEqual()` — Checks if two values are equal.
+* `assertTrue()` / `assertFalse()` — Checks Boolean results.
+* `assertIn()` / `assertNotIn()` — Checks membership.
+* `assertRaises()` — Tests expected exceptions.
+* `unittest.main()` — Runs all test cases.
+
+## 🧪 Practice & Projects
+
+### 🔹 Even & Odd Number Testing
+
+Created tests to verify that functions correctly return even and odd numbers using `assertEqual()`.
+
+### 🔹 Student Testing
+
+Used a `Student` dataclass and tested the `is_passed()` method with `assertTrue()` and `assertFalse()`.
+
+### 🔹 Calculator Testing
+
+Created separate calculator and test files and tested addition, subtraction, multiplication, division, and division-by-zero errors.
+
+### 🔹 User Validation Testing
+
+Practiced testing username and age validation using `setUp()`, including boundary testing such as `17`, `18`, and `19`.
+
+## 🎯 Key Learning
+
+I learned that unit testing checks whether individual parts of a program work correctly. I also learned to test both **normal cases and edge cases** to find problems before they affect the whole project.
+
+> **Code → Test → PASS/FAIL → Fix → Test Again 🔥**
+
 
 
