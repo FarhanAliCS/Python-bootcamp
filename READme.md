@@ -33,6 +33,7 @@ How to perform basic calculations
 
 
 
+
  # Day 2 - 3 - Opweation and User Input and If Else
 
 ## About
@@ -1313,6 +1314,50 @@ Practiced testing username and age validation using `setUp()`, including boundar
 I learned that unit testing checks whether individual parts of a program work correctly. I also learned to test both **normal cases and edge cases** to find problems before they affect the whole project.
 
 > **Code → Test → PASS/FAIL → Fix → Test Again 🔥**
+
+
+
+
+
+
+### 🚀 Day 29 — Virtual Environments + pip
+
+Today I learned how to manage Python projects using **Virtual Environments and pip**.
+
+## 📚 What I Learned
+
+* Creating and activating virtual environments
+* Installing and uninstalling packages with `pip`
+* Using `pip list` and `pip freeze`
+* Creating `requirements.txt`
+* Using virtual environments with GitHub
+
+## 🎓 Project — Student Result Calculator
+
+I created a **Student Result Calculator** using Python and Colorama.
+
+The program:
+
+* Takes student name and subject marks
+* Validates user input
+* Calculates total and percentage
+* Finds highest and lowest marks
+* Assigns grades and PASS/FAIL status
+* Uses functions, loops, and exception handling
+
+## 🛠️ Technologies
+
+* Python
+* Colorama
+* pip
+* Virtual Environment (`venv`)
+
+## 🎯 Goal
+
+The goal was to understand **package management and virtual environments** while applying them to a practical Python project.
+
+**Day 29 Completed! 🚀**
+
 
 
 
