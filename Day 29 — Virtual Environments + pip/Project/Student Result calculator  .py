@@ -17,6 +17,7 @@ def calculate_grade(percentage):
         return "D"
     else:
         return "F"
+
     
 def message(grade):
     if grade == 'A+':
@@ -50,18 +51,18 @@ while True:
     while True:
         try:
             math = float(input("Enter Math marks: "))
-            if math < 0 or math >= 100:
+            if math < 0 or math > 100:
                 raise ValueError("Marks must be between 0 - 100 .")
             python = float(input("Enter Python marks: "))
-            if math < 0 or math >= 100:
+            if math < 0 or python > 100:
                 raise ValueError("Marks must be between 0 - 100 .")
             english = float(input("Enter English marks: "))
-            if math < 0 or math >= 100:
+            if math < 0 or english > 100:
                 raise ValueError("Marks must be between 0 - 100 .")
             
             computer=float(input("Enter computer science marks :"))
 
-            if math < 0 or math >= 100:
+            if math < 0 or computer > 100:
                 raise ValueError("Marks must be between 0 - 100 .")
             break
 
@@ -75,7 +76,7 @@ while True:
     highest_marks = max(math,python,english,computer)
     lowest_marks=min(math,python,english,computer)
     grade = calculate_grade(percentage)
-    messege=message(grade)
+    message_info=message(grade)
 
     print("\n" + Fore.YELLOW + "===== RESULT =====")
     print(f"Name: {name}")
@@ -84,7 +85,7 @@ while True:
     print("Highest Marks :",highest_marks)
     print("Lowest Marks  :",lowest_marks)
     print(f"Grade: {grade}")
-    print("Appreciation :",messege)
+    print("Appreciation :",message_info)
     
         
     if percentage >= 50:
