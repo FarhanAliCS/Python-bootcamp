@@ -1358,6 +1358,32 @@ The goal was to understand **package management and virtual environments** while
 
 **Day 29 Completed! 🚀**
 
+# Day 30 — Student Management System 🎓
+
+Today I completed my **Python Final Integration Project** by building a Student Management System that combines the concepts I learned throughout the first 30 days.
+
+### What I Practiced
+
+* Created a multi-file Python project
+* Used **OOP and Dataclasses**
+* Added **JSON file storage**
+* Implemented **input validation**
+* Added **GPA and grade-point calculation**
+* Used **logging** for errors and application events
+* Created **21 unit tests** using `unittest`
+* Managed dependencies using **virtual environments and pip**
+
+### Project Features
+
+The system allows users to **add, search, update, delete, and display student records**, while validating data and saving it permanently in `students.json`.
+
+### Final Result
+
+This project helped me understand how to combine different Python concepts into one **complete, practical application**.
+
+**Status: ✅ Day 30 Completed — Final Integration Project**
+
+
 
 
 
