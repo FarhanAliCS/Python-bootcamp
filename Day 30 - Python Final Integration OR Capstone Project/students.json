@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Farhan Ali",
+        "roll_no": "1001",
+        "age": 21,
+        "semester": 5,
+        "department": "Computer Science",
+        "subjects": {
+            "Software Engineering": 90.0,
+            "Artificial Intelligence": 89.0,
+            "Information Secuity": 78.0,
+            "Computer Architecture And Organization": 45.0,
+            "Probability And Statistics": 56.0,
+            "Theory of Atomata": 65.0,
+            "Teaching Of Holy Quran": 54.0
+        }
+    },
+    {
+        "name": "Ali Rahman",
+        "roll_no": "1002",
+        "age": 22,
+        "semester": 5,
+        "department": "Cyber Security",
+        "subjects": {
+            "Software Engineering": 89.0,
+            "Artificial Intelligence": 78.0,
+            "Information Secuity": 67.0,
+            "Computer Architecture And Organization": 48.0,
+            "Probability And Statistics": 89.0,
+            "Theory of Atomata": 90.0,
+            "Teaching Of Holy Quran": 78.0
+        }
+    },
+    {
+        "name": "Ali Zada",
+        "roll_no": "1003",
+        "age": 18,
+        "semester": 3,
+        "department": "Computer Science",
+        "subjects": {
+            "Software Engineering": 89.0,
+            "Artificial Intelligence": 78.0,
+            "Information Secuity": 67.0,
+            "Computer Architecture And Organization": 89.0,
+            "Probability And Statistics": 78.0,
+            "Theory of Atomata": 67.0,
+            "Teaching Of Holy Quran": 89.0
+        }
+    },
+    {
+        "name": "Afan Wahid",
+        "roll_no": "1004",
+        "age": 21,
+        "semester": 5,
+        "department": "Computer Science",
+        "subjects": {
+            "Software Engineering": 78.0,
+            "Artificial Intelligence": 89.0,
+            "Information Secuity": 98.0,
+            "Computer Architecture And Organization": 87.0,
+            "Probability And Statistics": 67.0,
+            "Theory of Atomata": 78.0,
+            "Teaching Of Holy Quran": 89.0
+        }
+    }
+]

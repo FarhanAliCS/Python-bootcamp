@@ -1,0 +1,648 @@
+2026-09-11 14:16:35,736 - INFO - --: Welcome to Student Update Menu :--
+2026-09-11 14:35:20,676 - INFO - Student not found .
+2026-09-11 14:37:06,704 - INFO - Student Updation exited
+2026-09-11 14:37:10,994 - INFO - --: Welcome to Statestic Menu :--
+2026-09-11 14:37:32,068 - INFO - User GPA calculation exit . 
+2026-09-11 14:37:35,905 - INFO - Student Statestics Exited .
+2026-09-11 15:23:27,053 - INFO - [32m--: Welcome to Statestic Menu :--
+2026-09-11 15:39:27,615 - DEBUG - Length must be 3 or more .
+2026-09-11 15:39:27,616 - DEBUG - Invalid input .
+2026-09-11 15:39:27,616 - DEBUG - Invalid input .
+2026-09-11 15:39:27,616 - DEBUG - Invalid input .
+2026-09-11 15:45:59,355 - DEBUG - Length must be 3 or more .
+2026-09-11 15:45:59,355 - DEBUG - Invalid input .
+2026-09-11 15:45:59,355 - DEBUG - Invalid input .
+2026-09-11 15:45:59,356 - DEBUG - Invalid input .
+2026-09-11 15:46:17,917 - DEBUG - Invalid input .
+2026-09-11 15:46:21,687 - INFO - [32mStudent adding stopped successfully.
+2026-09-11 15:52:47,864 - DEBUG - Length must be 3 or more .
+2026-09-11 15:52:47,865 - DEBUG - Invalid input .
+2026-09-11 15:52:47,865 - DEBUG - Invalid input .
+2026-09-11 15:52:47,865 - DEBUG - Invalid input .
+2026-09-11 15:57:23,430 - DEBUG - Length must be 3 or more .
+2026-09-11 15:57:23,430 - DEBUG - Invalid input .
+2026-09-11 15:57:23,430 - DEBUG - Invalid input .
+2026-09-11 15:57:23,430 - DEBUG - Invalid input .
+2026-09-11 15:57:23,431 - DEBUG - [31mRoll No already exist .
+2026-09-11 15:59:57,426 - DEBUG - Length must be 3 or more .
+2026-09-11 15:59:57,426 - DEBUG - Invalid input .
+2026-09-11 15:59:57,427 - DEBUG - Invalid input .
+2026-09-11 15:59:57,427 - DEBUG - Invalid input .
+2026-09-11 15:59:57,427 - DEBUG - [31mLen must be 4 character 
+2026-09-11 15:59:57,427 - DEBUG - [31mLen must be 4 character 
+2026-09-11 15:59:57,428 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:01:55,888 - DEBUG - 15 not valid age .
+2026-09-11 16:01:55,888 - DEBUG - 31 not valid age .
+2026-09-11 16:01:55,902 - DEBUG - Length must be 3 or more .
+2026-09-11 16:01:55,902 - DEBUG - Invalid input .
+2026-09-11 16:01:55,902 - DEBUG - Invalid input .
+2026-09-11 16:01:55,903 - DEBUG - Invalid input .
+2026-09-11 16:01:55,905 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:01:55,905 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:01:55,905 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:02:32,238 - DEBUG - 15 not valid age .
+2026-09-11 16:02:32,239 - DEBUG - 31 not valid age .
+2026-09-11 16:02:32,240 - DEBUG - Length must be 3 or more .
+2026-09-11 16:02:32,240 - DEBUG - Invalid input .
+2026-09-11 16:02:32,240 - DEBUG - Invalid input .
+2026-09-11 16:02:32,240 - DEBUG - Invalid input .
+2026-09-11 16:02:32,241 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:02:32,241 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:02:32,241 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:06:59,884 - DEBUG - 15 not valid age .
+2026-09-11 16:06:59,884 - DEBUG - 31 not valid age .
+2026-09-11 16:06:59,885 - DEBUG - Computer_ no valid department 
+2026-09-11 16:06:59,885 - DEBUG - Computer123 no valid department 
+2026-09-11 16:06:59,885 - DEBUG - cs. no valid department 
+2026-09-11 16:06:59,886 - DEBUG - Length must be 3 or more .
+2026-09-11 16:06:59,886 - DEBUG - Invalid input .
+2026-09-11 16:06:59,886 - DEBUG - Invalid input .
+2026-09-11 16:06:59,886 - DEBUG - Invalid input .
+2026-09-11 16:06:59,887 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:06:59,887 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:06:59,887 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:06:59,888 - DEBUG - 9 Not valid semester .
+2026-09-11 16:06:59,888 - DEBUG - 0 Not valid semester .
+2026-09-11 16:06:59,888 - DEBUG - -1 Not valid semester .
+2026-09-11 16:14:58,958 - INFO - [32mStudent Add Succesfully .
+2026-09-11 16:14:58,960 - INFO - [32mStudent adding stopped successfully.
+2026-09-11 16:14:58,963 - DEBUG - 15 not valid age .
+2026-09-11 16:14:58,963 - DEBUG - 31 not valid age .
+2026-09-11 16:14:58,964 - DEBUG - Computer_ no valid department 
+2026-09-11 16:14:58,964 - DEBUG - Computer123 no valid department 
+2026-09-11 16:14:58,964 - DEBUG - cs. no valid department 
+2026-09-11 16:14:58,964 - DEBUG - Length must be 3 or more .
+2026-09-11 16:14:58,965 - DEBUG - Invalid input .
+2026-09-11 16:14:58,965 - DEBUG - Invalid input .
+2026-09-11 16:14:58,965 - DEBUG - Invalid input .
+2026-09-11 16:14:58,966 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:14:58,966 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:14:58,966 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:14:58,968 - DEBUG - 9 Not valid semester .
+2026-09-11 16:14:58,968 - DEBUG - 0 Not valid semester .
+2026-09-11 16:14:58,968 - DEBUG - -1 Not valid semester .
+2026-09-11 16:18:00,679 - INFO - [32mStudent Add Succesfully .
+2026-09-11 16:18:00,680 - INFO - [32mStudent adding stopped successfully.
+2026-09-11 16:18:00,693 - INFO - [32mEnter Roll No Or Name to search Student .
+2026-09-11 16:18:00,694 - INFO - [32mOperation exit .
+2026-09-11 16:18:00,696 - DEBUG - 15 not valid age .
+2026-09-11 16:18:00,696 - DEBUG - 31 not valid age .
+2026-09-11 16:18:00,697 - DEBUG - Computer_ no valid department 
+2026-09-11 16:18:00,698 - DEBUG - Computer123 no valid department 
+2026-09-11 16:18:00,698 - DEBUG - cs. no valid department 
+2026-09-11 16:18:00,699 - DEBUG - Length must be 3 or more .
+2026-09-11 16:18:00,700 - DEBUG - Invalid input .
+2026-09-11 16:18:00,700 - DEBUG - Invalid input .
+2026-09-11 16:18:00,701 - DEBUG - Invalid input .
+2026-09-11 16:18:00,702 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:18:00,702 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:18:00,703 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:18:00,704 - DEBUG - 9 Not valid semester .
+2026-09-11 16:18:00,705 - DEBUG - 0 Not valid semester .
+2026-09-11 16:18:00,705 - DEBUG - -1 Not valid semester .
+2026-09-11 16:19:43,788 - INFO - [32mStudent Add Succesfully .
+2026-09-11 16:19:43,789 - INFO - [32mStudent adding stopped successfully.
+2026-09-11 16:19:43,790 - INFO - [32mEnter student Name OR Enter Student Roll No to delete Student .
+
+2026-09-11 16:19:43,791 - INFO - [32mStudent delete succesfully .
+2026-09-11 16:19:43,792 - INFO - [32mOperation exit .
+2026-09-11 16:19:43,796 - INFO - [32mEnter Roll No Or Name to search Student .
+2026-09-11 16:19:43,797 - INFO - [32mOperation exit .
+2026-09-11 16:19:43,798 - DEBUG - 15 not valid age .
+2026-09-11 16:19:43,799 - DEBUG - 31 not valid age .
+2026-09-11 16:19:43,800 - DEBUG - Computer_ no valid department 
+2026-09-11 16:19:43,800 - DEBUG - Computer123 no valid department 
+2026-09-11 16:19:43,801 - DEBUG - cs. no valid department 
+2026-09-11 16:19:43,802 - DEBUG - Length must be 3 or more .
+2026-09-11 16:19:43,802 - DEBUG - Invalid input .
+2026-09-11 16:19:43,802 - DEBUG - Invalid input .
+2026-09-11 16:19:43,802 - DEBUG - Invalid input .
+2026-09-11 16:19:43,803 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:19:43,804 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:19:43,804 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:19:43,805 - DEBUG - 9 Not valid semester .
+2026-09-11 16:19:43,805 - DEBUG - 0 Not valid semester .
+2026-09-11 16:19:43,806 - DEBUG - -1 Not valid semester .
+2026-09-11 16:25:16,736 - INFO - [32mStudent Add Succesfully .
+2026-09-11 16:25:16,737 - INFO - [32mStudent adding stopped successfully.
+2026-09-11 16:25:16,739 - INFO - [32mEnter student Name OR Enter Student Roll No to delete Student .
+
+2026-09-11 16:25:16,740 - INFO - [32mStudent delete succesfully .
+2026-09-11 16:25:16,741 - INFO - [32mOperation exit .
+2026-09-11 16:25:16,745 - INFO - [32mEnter Roll No Or Name to search Student .
+2026-09-11 16:25:16,746 - INFO - [32mOperation exit .
+2026-09-11 16:25:16,765 - INFO - [32mStudent found on Roll No 9999 His Name is Ali .
+2026-09-11 16:25:16,767 - INFO - [32mSubject marks updated successfully.
+2026-09-11 16:25:16,776 - DEBUG - 15 not valid age .
+2026-09-11 16:25:16,777 - DEBUG - 31 not valid age .
+2026-09-11 16:25:16,779 - DEBUG - Computer_ no valid department 
+2026-09-11 16:25:16,779 - DEBUG - Computer123 no valid department 
+2026-09-11 16:25:16,779 - DEBUG - cs. no valid department 
+2026-09-11 16:25:16,780 - DEBUG - Length must be 3 or more .
+2026-09-11 16:25:16,781 - DEBUG - Invalid input .
+2026-09-11 16:25:16,781 - DEBUG - Invalid input .
+2026-09-11 16:25:16,781 - DEBUG - Invalid input .
+2026-09-11 16:25:16,782 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:25:16,782 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:25:16,782 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:25:16,783 - DEBUG - 9 Not valid semester .
+2026-09-11 16:25:16,783 - DEBUG - 0 Not valid semester .
+2026-09-11 16:25:16,783 - DEBUG - -1 Not valid semester .
+2026-09-11 16:25:51,098 - INFO - [32mStudent Add Succesfully .
+2026-09-11 16:25:51,099 - INFO - [32mStudent adding stopped successfully.
+2026-09-11 16:25:51,100 - INFO - [32mEnter student Name OR Enter Student Roll No to delete Student .
+
+2026-09-11 16:25:51,101 - INFO - [32mStudent delete succesfully .
+2026-09-11 16:25:51,102 - INFO - [32mOperation exit .
+2026-09-11 16:25:51,106 - INFO - [32mEnter Roll No Or Name to search Student .
+2026-09-11 16:25:51,107 - INFO - [32mOperation exit .
+2026-09-11 16:25:51,115 - INFO - [32mStudent found on Roll No 9999 His Name is Ali .
+2026-09-11 16:25:51,117 - INFO - [32mSubject marks updated successfully.
+2026-09-11 16:25:51,128 - DEBUG - 15 not valid age .
+2026-09-11 16:25:51,129 - DEBUG - 31 not valid age .
+2026-09-11 16:25:51,130 - DEBUG - Computer_ no valid department 
+2026-09-11 16:25:51,130 - DEBUG - Computer123 no valid department 
+2026-09-11 16:25:51,131 - DEBUG - cs. no valid department 
+2026-09-11 16:25:51,132 - DEBUG - Length must be 3 or more .
+2026-09-11 16:25:51,132 - DEBUG - Invalid input .
+2026-09-11 16:25:51,132 - DEBUG - Invalid input .
+2026-09-11 16:25:51,132 - DEBUG - Invalid input .
+2026-09-11 16:25:51,133 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:25:51,134 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:25:51,134 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:25:51,136 - DEBUG - 9 Not valid semester .
+2026-09-11 16:25:51,138 - DEBUG - 0 Not valid semester .
+2026-09-11 16:25:51,138 - DEBUG - -1 Not valid semester .
+2026-09-11 16:27:24,009 - INFO - [32mStudent Add Succesfully .
+2026-09-11 16:27:24,010 - INFO - [32mStudent adding stopped successfully.
+2026-09-11 16:27:24,012 - INFO - [32mEnter student Name OR Enter Student Roll No to delete Student .
+
+2026-09-11 16:27:24,013 - INFO - [32mStudent delete succesfully .
+2026-09-11 16:27:24,014 - INFO - [32mOperation exit .
+2026-09-11 16:27:24,018 - INFO - [32mEnter Roll No Or Name to search Student .
+2026-09-11 16:27:24,019 - INFO - [32mOperation exit .
+2026-09-11 16:27:24,023 - INFO - [32mStudent found on Roll No 9999 His Name is Ali and age is 20.
+2026-09-11 16:27:24,024 - INFO - [32mStudent age update succesfully .
+2026-09-11 16:27:24,026 - INFO - [32mStudent found on Roll No 9999 His Name is Ali and Department is Computer Science .
+2026-09-11 16:27:24,027 - INFO - [32mStudent department update succesfully .
+2026-09-11 16:27:24,030 - INFO - [32mStudent found on Roll No 9999 His Name is Ali .
+2026-09-11 16:27:24,031 - INFO - [32mSubject marks updated successfully.
+2026-09-11 16:27:24,044 - INFO - [32mStudent found on Roll No 9999 His Name is Ali and semester is 5.
+2026-09-11 16:27:24,045 - DEBUG - 6 Not valid gpa 
+2026-09-11 16:27:24,052 - DEBUG - 15 not valid age .
+2026-09-11 16:27:24,053 - DEBUG - 31 not valid age .
+2026-09-11 16:27:24,055 - DEBUG - Computer_ no valid department 
+2026-09-11 16:27:24,056 - DEBUG - Computer123 no valid department 
+2026-09-11 16:27:24,056 - DEBUG - cs. no valid department 
+2026-09-11 16:27:24,057 - DEBUG - Length must be 3 or more .
+2026-09-11 16:27:24,058 - DEBUG - Invalid input .
+2026-09-11 16:27:24,059 - DEBUG - Invalid input .
+2026-09-11 16:27:24,060 - DEBUG - Invalid input .
+2026-09-11 16:27:24,062 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:27:24,063 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:27:24,064 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:27:24,065 - DEBUG - 9 Not valid semester .
+2026-09-11 16:27:24,065 - DEBUG - 0 Not valid semester .
+2026-09-11 16:27:24,065 - DEBUG - -1 Not valid semester .
+2026-09-11 16:28:46,006 - INFO - [32mStudent Add Succesfully .
+2026-09-11 16:28:46,007 - INFO - [32mStudent adding stopped successfully.
+2026-09-11 16:28:46,008 - INFO - [32mEnter student Name OR Enter Student Roll No to delete Student .
+
+2026-09-11 16:28:46,009 - INFO - [32mStudent delete succesfully .
+2026-09-11 16:28:46,010 - INFO - [32mOperation exit .
+2026-09-11 16:28:46,014 - INFO - [32mEnter Roll No Or Name to search Student .
+2026-09-11 16:28:46,015 - INFO - [32mOperation exit .
+2026-09-11 16:28:46,018 - INFO - [32mStudent found on Roll No 9999 His Name is Ali and age is 20.
+2026-09-11 16:28:46,019 - INFO - [32mStudent age update succesfully .
+2026-09-11 16:28:46,022 - INFO - [32mStudent found on Roll No 9999 His Name is Ali and Department is Computer Science .
+2026-09-11 16:28:46,023 - INFO - [32mStudent department update succesfully .
+2026-09-11 16:28:46,026 - INFO - [32mStudent found on Roll No 9999 His Name is Ali .
+2026-09-11 16:28:46,027 - INFO - [32mSubject marks updated successfully.
+2026-09-11 16:28:46,039 - INFO - [32mStudent found on Roll No 9999 His Name is Ali and semester is 5.
+2026-09-11 16:28:46,039 - INFO - [32mStudent semester update succesfully .
+2026-09-11 16:28:46,041 - DEBUG - 15 not valid age .
+2026-09-11 16:28:46,042 - DEBUG - 31 not valid age .
+2026-09-11 16:28:46,044 - DEBUG - Computer_ no valid department 
+2026-09-11 16:28:46,045 - DEBUG - Computer123 no valid department 
+2026-09-11 16:28:46,046 - DEBUG - cs. no valid department 
+2026-09-11 16:28:46,047 - DEBUG - Length must be 3 or more .
+2026-09-11 16:28:46,048 - DEBUG - Invalid input .
+2026-09-11 16:28:46,048 - DEBUG - Invalid input .
+2026-09-11 16:28:46,049 - DEBUG - Invalid input .
+2026-09-11 16:28:46,050 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:28:46,050 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:28:46,051 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:28:46,052 - DEBUG - 9 Not valid semester .
+2026-09-11 16:28:46,052 - DEBUG - 0 Not valid semester .
+2026-09-11 16:28:46,053 - DEBUG - -1 Not valid semester .
+2026-09-11 16:29:23,331 - INFO - [32mStudent Add Succesfully .
+2026-09-11 16:29:23,333 - INFO - [32mStudent adding stopped successfully.
+2026-09-11 16:29:23,335 - INFO - [32mEnter student Name OR Enter Student Roll No to delete Student .
+
+2026-09-11 16:29:23,336 - INFO - [32mStudent delete succesfully .
+2026-09-11 16:29:23,337 - INFO - [32mOperation exit .
+2026-09-11 16:29:23,342 - INFO - [32mEnter Roll No Or Name to search Student .
+2026-09-11 16:29:23,343 - INFO - [32mOperation exit .
+2026-09-11 16:29:23,345 - INFO - [32mStudent found on Roll No 9999 His Name is Ali and age is 20.
+2026-09-11 16:29:23,346 - INFO - [32mStudent age update succesfully .
+2026-09-11 16:29:23,349 - INFO - [32mStudent found on Roll No 9999 His Name is Ali and Department is Computer Science .
+2026-09-11 16:29:23,349 - INFO - [32mStudent department update succesfully .
+2026-09-11 16:29:23,352 - INFO - [32mStudent found on Roll No 9999 His Name is Ali .
+2026-09-11 16:29:23,354 - INFO - [32mSubject marks updated successfully.
+2026-09-11 16:29:23,359 - INFO - [32mStudent found on Roll No 9999 His Name is Ali .
+2026-09-11 16:29:23,361 - INFO - [32mStudent Name update succesfully .
+2026-09-11 16:29:23,364 - INFO - [32mStudent found on Roll No 9999 His Name is Ali .
+2026-09-11 16:29:23,365 - INFO - [32mStudent Roll No update succesfully .
+2026-09-11 16:29:23,367 - INFO - [32mStudent found on Roll No 9999 His Name is Ali and semester is 5.
+2026-09-11 16:29:23,368 - INFO - [32mStudent semester update succesfully .
+2026-09-11 16:29:23,370 - DEBUG - 15 not valid age .
+2026-09-11 16:29:23,371 - DEBUG - 31 not valid age .
+2026-09-11 16:29:23,373 - DEBUG - Computer_ no valid department 
+2026-09-11 16:29:23,375 - DEBUG - Computer123 no valid department 
+2026-09-11 16:29:23,375 - DEBUG - cs. no valid department 
+2026-09-11 16:29:23,376 - DEBUG - Length must be 3 or more .
+2026-09-11 16:29:23,376 - DEBUG - Invalid input .
+2026-09-11 16:29:23,376 - DEBUG - Invalid input .
+2026-09-11 16:29:23,377 - DEBUG - Invalid input .
+2026-09-11 16:29:23,378 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:29:23,378 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:29:23,378 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:29:23,379 - DEBUG - 9 Not valid semester .
+2026-09-11 16:29:23,379 - DEBUG - 0 Not valid semester .
+2026-09-11 16:29:23,380 - DEBUG - -1 Not valid semester .
+2026-09-11 16:33:09,366 - INFO - [32m--: Welcome to Statestic Menu :--
+2026-09-11 16:35:38,479 - INFO - [32mStudent Add Succesfully .
+2026-09-11 16:35:38,480 - INFO - [32mStudent adding stopped successfully.
+2026-09-11 16:35:38,483 - INFO - [32mEnter student Name OR Enter Student Roll No to delete Student .
+
+2026-09-11 16:35:38,484 - INFO - [32mStudent delete succesfully .
+2026-09-11 16:35:38,485 - INFO - [32mOperation exit .
+2026-09-11 16:35:38,491 - INFO - [32mEnter Roll No Or Name to search Student .
+2026-09-11 16:35:38,492 - INFO - [32mOperation exit .
+2026-09-11 16:35:38,494 - INFO - User GPA calculation exit . 
+2026-09-11 16:35:38,498 - INFO - [32mStudent found on Roll No 9999 His Name is Ali and age is 20.
+2026-09-11 16:35:38,499 - INFO - [32mStudent age update succesfully .
+2026-09-11 16:35:38,501 - INFO - [32mStudent found on Roll No 9999 His Name is Ali and Department is Computer Science .
+2026-09-11 16:35:38,503 - INFO - [32mStudent department update succesfully .
+2026-09-11 16:35:38,507 - INFO - [32mStudent found on Roll No 9999 His Name is Ali .
+2026-09-11 16:35:38,518 - INFO - [32mSubject marks updated successfully.
+2026-09-11 16:35:38,521 - INFO - [32mStudent found on Roll No 9999 His Name is Ali .
+2026-09-11 16:35:38,524 - INFO - [32mStudent Name update succesfully .
+2026-09-11 16:35:38,537 - INFO - [32mStudent found on Roll No 9999 His Name is Ali .
+2026-09-11 16:35:38,539 - INFO - [32mStudent Roll No update succesfully .
+2026-09-11 16:35:38,545 - INFO - [32mStudent found on Roll No 9999 His Name is Ali and semester is 5.
+2026-09-11 16:35:38,581 - INFO - [32mStudent semester update succesfully .
+2026-09-11 16:35:38,585 - DEBUG - 15 not valid age .
+2026-09-11 16:35:38,586 - DEBUG - 31 not valid age .
+2026-09-11 16:35:38,587 - DEBUG - Computer_ no valid department 
+2026-09-11 16:35:38,588 - DEBUG - Computer123 no valid department 
+2026-09-11 16:35:38,589 - DEBUG - cs. no valid department 
+2026-09-11 16:35:38,591 - DEBUG - Length must be 3 or more .
+2026-09-11 16:35:38,592 - DEBUG - Invalid input .
+2026-09-11 16:35:38,592 - DEBUG - Invalid input .
+2026-09-11 16:35:38,593 - DEBUG - Invalid input .
+2026-09-11 16:35:38,595 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:35:38,596 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:35:38,596 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:35:38,598 - DEBUG - 9 Not valid semester .
+2026-09-11 16:35:38,598 - DEBUG - 0 Not valid semester .
+2026-09-11 16:35:38,599 - DEBUG - -1 Not valid semester .
+2026-09-11 16:36:40,783 - INFO - [32mStudent Add Succesfully .
+2026-09-11 16:36:40,784 - INFO - [32mStudent adding stopped successfully.
+2026-09-11 16:36:40,786 - INFO - [32mEnter student Name OR Enter Student Roll No to delete Student .
+
+2026-09-11 16:36:40,787 - INFO - [32mStudent delete succesfully .
+2026-09-11 16:36:40,788 - INFO - [32mOperation exit .
+2026-09-11 16:36:40,795 - INFO - [32mEnter Roll No Or Name to search Student .
+2026-09-11 16:36:40,796 - INFO - [32mOperation exit .
+2026-09-11 16:36:40,798 - INFO - User GPA calculation exit . 
+2026-09-11 16:36:40,801 - INFO - [32mStudent found on Roll No 9999 His Name is Ali and age is 20.
+2026-09-11 16:36:40,801 - INFO - [32mStudent age update succesfully .
+2026-09-11 16:36:40,804 - INFO - [32mStudent found on Roll No 9999 His Name is Ali and Department is Computer Science .
+2026-09-11 16:36:40,805 - INFO - [32mStudent department update succesfully .
+2026-09-11 16:36:40,808 - INFO - [32mStudent found on Roll No 9999 His Name is Ali .
+2026-09-11 16:36:40,811 - INFO - [32mSubject marks updated successfully.
+2026-09-11 16:36:40,814 - INFO - [32mStudent found on Roll No 9999 His Name is Ali .
+2026-09-11 16:36:40,815 - INFO - [32mStudent Name update succesfully .
+2026-09-11 16:36:40,819 - INFO - [32mStudent found on Roll No 9999 His Name is Ali .
+2026-09-11 16:36:40,819 - INFO - [32mStudent Roll No update succesfully .
+2026-09-11 16:36:40,821 - INFO - [32mStudent found on Roll No 9999 His Name is Ali and semester is 5.
+2026-09-11 16:36:40,822 - INFO - [32mStudent semester update succesfully .
+2026-09-11 16:36:40,824 - DEBUG - 15 not valid age .
+2026-09-11 16:36:40,824 - DEBUG - 31 not valid age .
+2026-09-11 16:36:40,825 - DEBUG - Computer_ no valid department 
+2026-09-11 16:36:40,825 - DEBUG - Computer123 no valid department 
+2026-09-11 16:36:40,825 - DEBUG - cs. no valid department 
+2026-09-11 16:36:40,825 - DEBUG - Length must be 3 or more .
+2026-09-11 16:36:40,826 - DEBUG - Invalid input .
+2026-09-11 16:36:40,826 - DEBUG - Invalid input .
+2026-09-11 16:36:40,826 - DEBUG - Invalid input .
+2026-09-11 16:36:40,828 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:36:40,828 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:36:40,828 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:36:40,829 - DEBUG - 9 Not valid semester .
+2026-09-11 16:36:40,829 - DEBUG - 0 Not valid semester .
+2026-09-11 16:36:40,830 - DEBUG - -1 Not valid semester .
+2026-09-11 16:39:23,506 - INFO - [32mStudent Add Succesfully .
+2026-09-11 16:39:23,507 - INFO - [32mStudent adding stopped successfully.
+2026-09-11 16:39:23,510 - INFO - [32mEnter student Name OR Enter Student Roll No to delete Student .
+
+2026-09-11 16:39:23,511 - INFO - [32mStudent delete succesfully .
+2026-09-11 16:39:23,511 - INFO - [32mOperation exit .
+2026-09-11 16:39:23,517 - INFO - [32mEnter Roll No Or Name to search Student .
+2026-09-11 16:39:23,518 - INFO - [32mOperation exit .
+2026-09-11 16:39:23,520 - INFO - User GPA calculation exit . 
+2026-09-11 16:39:23,522 - INFO - [32mStudent found on Roll No 9999 His Name is Ali and age is 20.
+2026-09-11 16:39:23,523 - INFO - [32mStudent age update succesfully .
+2026-09-11 16:39:23,525 - INFO - [32mStudent found on Roll No 9999 His Name is Ali and Department is Computer Science .
+2026-09-11 16:39:23,526 - INFO - [32mStudent department update succesfully .
+2026-09-11 16:39:23,530 - INFO - [32mStudent found on Roll No 9999 His Name is Ali .
+2026-09-11 16:39:23,532 - INFO - [32mSubject marks updated successfully.
+2026-09-11 16:39:23,534 - INFO - [32mStudent found on Roll No 9999 His Name is Ali .
+2026-09-11 16:39:23,536 - INFO - [32mStudent Name update succesfully .
+2026-09-11 16:39:23,540 - INFO - [32mStudent found on Roll No 9999 His Name is Ali .
+2026-09-11 16:39:23,541 - INFO - [32mStudent Roll No update succesfully .
+2026-09-11 16:39:23,544 - INFO - [32mStudent found on Roll No 9999 His Name is Ali and semester is 5.
+2026-09-11 16:39:23,545 - INFO - [32mStudent semester update succesfully .
+2026-09-11 16:39:23,547 - DEBUG - 15 not valid age .
+2026-09-11 16:39:23,548 - DEBUG - 31 not valid age .
+2026-09-11 16:39:23,549 - DEBUG - Computer_ no valid department 
+2026-09-11 16:39:23,549 - DEBUG - Computer123 no valid department 
+2026-09-11 16:39:23,549 - DEBUG - cs. no valid department 
+2026-09-11 16:39:23,551 - DEBUG - Length must be 3 or more .
+2026-09-11 16:39:23,552 - DEBUG - Invalid input .
+2026-09-11 16:39:23,553 - DEBUG - Invalid input .
+2026-09-11 16:39:23,554 - DEBUG - Invalid input .
+2026-09-11 16:39:23,556 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:39:23,556 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:39:23,556 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:39:23,558 - DEBUG - 9 Not valid semester .
+2026-09-11 16:39:23,558 - DEBUG - 0 Not valid semester .
+2026-09-11 16:39:23,558 - DEBUG - -1 Not valid semester .
+2026-09-11 16:39:59,044 - INFO - [32mStudent Add Succesfully .
+2026-09-11 16:39:59,046 - INFO - [32mStudent adding stopped successfully.
+2026-09-11 16:39:59,051 - INFO - [32mEnter student Name OR Enter Student Roll No to delete Student .
+
+2026-09-11 16:39:59,051 - INFO - [32mStudent delete succesfully .
+2026-09-11 16:39:59,053 - INFO - [32mOperation exit .
+2026-09-11 16:39:59,059 - INFO - [32mEnter Roll No Or Name to search Student .
+2026-09-11 16:39:59,060 - INFO - [32mOperation exit .
+2026-09-11 16:39:59,062 - INFO - User GPA calculation exit . 
+2026-09-11 16:39:59,065 - INFO - [32mStudent found on Roll No 9999 His Name is Ali and age is 20.
+2026-09-11 16:39:59,066 - INFO - [32mStudent age update succesfully .
+2026-09-11 16:39:59,068 - INFO - [32mStudent found on Roll No 9999 His Name is Ali and Department is Computer Science .
+2026-09-11 16:39:59,069 - INFO - [32mStudent department update succesfully .
+2026-09-11 16:39:59,075 - INFO - [32mStudent found on Roll No 9999 His Name is Ali .
+2026-09-11 16:39:59,076 - INFO - [32mSubject marks updated successfully.
+2026-09-11 16:39:59,079 - INFO - [32mStudent found on Roll No 9999 His Name is Ali .
+2026-09-11 16:39:59,079 - INFO - [32mStudent Name update succesfully .
+2026-09-11 16:39:59,083 - INFO - [32mStudent found on Roll No 9999 His Name is Ali .
+2026-09-11 16:39:59,085 - INFO - [32mStudent Roll No update succesfully .
+2026-09-11 16:39:59,088 - INFO - [32mStudent found on Roll No 9999 His Name is Ali and semester is 5.
+2026-09-11 16:39:59,089 - INFO - [32mStudent semester update succesfully .
+2026-09-11 16:39:59,090 - DEBUG - 15 not valid age .
+2026-09-11 16:39:59,091 - DEBUG - 31 not valid age .
+2026-09-11 16:39:59,092 - DEBUG - Computer_ no valid department 
+2026-09-11 16:39:59,092 - DEBUG - Computer123 no valid department 
+2026-09-11 16:39:59,093 - DEBUG - cs. no valid department 
+2026-09-11 16:39:59,094 - DEBUG - Length must be 3 or more .
+2026-09-11 16:39:59,094 - DEBUG - Invalid input .
+2026-09-11 16:39:59,095 - DEBUG - Invalid input .
+2026-09-11 16:39:59,095 - DEBUG - Invalid input .
+2026-09-11 16:39:59,097 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:39:59,098 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:39:59,099 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:39:59,100 - DEBUG - 9 Not valid semester .
+2026-09-11 16:39:59,102 - DEBUG - 0 Not valid semester .
+2026-09-11 16:39:59,103 - DEBUG - -1 Not valid semester .
+2026-09-11 16:40:50,153 - INFO - [32mStudent Add Succesfully .
+2026-09-11 16:40:50,154 - INFO - [32mStudent adding stopped successfully.
+2026-09-11 16:40:50,157 - INFO - [32mEnter student Name OR Enter Student Roll No to delete Student .
+
+2026-09-11 16:40:50,157 - INFO - [32mStudent delete succesfully .
+2026-09-11 16:40:50,158 - INFO - [32mOperation exit .
+2026-09-11 16:40:50,163 - INFO - [32mEnter Roll No Or Name to search Student .
+2026-09-11 16:40:50,164 - INFO - [32mOperation exit .
+2026-09-11 16:40:50,167 - INFO - User GPA calculation exit . 
+2026-09-11 16:40:50,169 - INFO - [32mStudent found on Roll No 9999 His Name is Ali and age is 20.
+2026-09-11 16:40:50,170 - INFO - [32mStudent age update succesfully .
+2026-09-11 16:40:50,173 - INFO - [32mStudent found on Roll No 9999 His Name is Ali and Department is Computer Science .
+2026-09-11 16:40:50,174 - INFO - [32mStudent department update succesfully .
+2026-09-11 16:40:50,178 - INFO - [32mStudent found on Roll No 9999 His Name is Ali .
+2026-09-11 16:40:50,179 - INFO - [32mSubject marks updated successfully.
+2026-09-11 16:40:50,181 - INFO - [32mStudent found on Roll No 9999 His Name is Ali .
+2026-09-11 16:40:50,182 - INFO - [32mStudent Name update succesfully .
+2026-09-11 16:40:50,188 - INFO - [32mStudent found on Roll No 9999 His Name is Ali .
+2026-09-11 16:40:50,188 - INFO - [32mStudent Roll No update succesfully .
+2026-09-11 16:40:50,190 - INFO - [32mStudent found on Roll No 9999 His Name is Ali and semester is 5.
+2026-09-11 16:40:50,191 - INFO - [32mStudent semester update succesfully .
+2026-09-11 16:40:50,193 - DEBUG - 15 not valid age .
+2026-09-11 16:40:50,193 - DEBUG - 31 not valid age .
+2026-09-11 16:40:50,194 - DEBUG - Computer_ no valid department 
+2026-09-11 16:40:50,195 - DEBUG - Computer123 no valid department 
+2026-09-11 16:40:50,195 - DEBUG - cs. no valid department 
+2026-09-11 16:40:50,197 - DEBUG - Length must be 3 or more .
+2026-09-11 16:40:50,197 - DEBUG - Invalid input .
+2026-09-11 16:40:50,198 - DEBUG - Invalid input .
+2026-09-11 16:40:50,198 - DEBUG - Invalid input .
+2026-09-11 16:40:50,199 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:40:50,199 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:40:50,199 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:40:50,201 - DEBUG - 9 Not valid semester .
+2026-09-11 16:40:50,201 - DEBUG - 0 Not valid semester .
+2026-09-11 16:40:50,202 - DEBUG - -1 Not valid semester .
+2026-09-11 16:43:32,860 - INFO - [32mStudent Add Succesfully .
+2026-09-11 16:43:32,861 - INFO - [32mStudent adding stopped successfully.
+2026-09-11 16:43:32,864 - INFO - [32mEnter student Name OR Enter Student Roll No to delete Student .
+
+2026-09-11 16:43:32,865 - INFO - [32mStudent delete succesfully .
+2026-09-11 16:43:32,866 - INFO - [32mOperation exit .
+2026-09-11 16:43:32,873 - INFO - [32mEnter Roll No Or Name to search Student .
+2026-09-11 16:43:32,873 - INFO - [32mOperation exit .
+2026-09-11 16:43:32,875 - INFO - User GPA calculation exit . 
+2026-09-11 16:43:32,878 - INFO - [32mStudent found on Roll No 9999 His Name is Ali and age is 20.
+2026-09-11 16:43:32,879 - INFO - [32mStudent age update succesfully .
+2026-09-11 16:43:32,882 - INFO - [32mStudent found on Roll No 9999 His Name is Ali and Department is Computer Science .
+2026-09-11 16:43:32,883 - INFO - [32mStudent department update succesfully .
+2026-09-11 16:43:32,888 - INFO - [32mStudent found on Roll No 9999 His Name is Ali .
+2026-09-11 16:43:32,891 - INFO - [32mSubject marks updated successfully.
+2026-09-11 16:43:32,893 - INFO - [32mStudent found on Roll No 9999 His Name is Ali .
+2026-09-11 16:43:32,894 - INFO - [32mStudent Name update succesfully .
+2026-09-11 16:43:32,896 - INFO - [32mStudent found on Roll No 9999 His Name is Ali .
+2026-09-11 16:43:32,897 - INFO - [32mStudent Roll No update succesfully .
+2026-09-11 16:43:32,900 - INFO - [32mStudent found on Roll No 9999 His Name is Ali and semester is 5.
+2026-09-11 16:43:32,902 - INFO - [32mStudent semester update succesfully .
+2026-09-11 16:43:32,905 - DEBUG - 15 not valid age .
+2026-09-11 16:43:32,906 - DEBUG - 31 not valid age .
+2026-09-11 16:43:32,907 - DEBUG - Computer_ no valid department 
+2026-09-11 16:43:32,907 - DEBUG - Computer123 no valid department 
+2026-09-11 16:43:32,908 - DEBUG - cs. no valid department 
+2026-09-11 16:43:32,909 - DEBUG - Length must be 3 or more .
+2026-09-11 16:43:32,909 - DEBUG - Invalid input .
+2026-09-11 16:43:32,910 - DEBUG - Invalid input .
+2026-09-11 16:43:32,910 - DEBUG - Invalid input .
+2026-09-11 16:43:32,911 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:43:32,911 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:43:32,912 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:43:32,913 - DEBUG - 9 Not valid semester .
+2026-09-11 16:43:32,913 - DEBUG - 0 Not valid semester .
+2026-09-11 16:43:32,913 - DEBUG - -1 Not valid semester .
+2026-09-11 16:44:51,083 - INFO - [32mStudent Add Succesfully .
+2026-09-11 16:44:51,084 - INFO - [32mStudent adding stopped successfully.
+2026-09-11 16:44:51,087 - INFO - [32mEnter student Name OR Enter Student Roll No to delete Student .
+
+2026-09-11 16:44:51,088 - INFO - [32mStudent delete succesfully .
+2026-09-11 16:44:51,089 - INFO - [32mOperation exit .
+2026-09-11 16:44:51,096 - INFO - [32mEnter Roll No Or Name to search Student .
+2026-09-11 16:44:51,097 - INFO - [32mOperation exit .
+2026-09-11 16:44:51,099 - INFO - User GPA calculation exit . 
+2026-09-11 16:44:51,101 - INFO - [32mStudent found on Roll No 9999 His Name is Ali and age is 20.
+2026-09-11 16:44:51,102 - INFO - [32mStudent age update succesfully .
+2026-09-11 16:44:51,104 - INFO - [32mStudent found on Roll No 9999 His Name is Ali and Department is Computer Science .
+2026-09-11 16:44:51,105 - INFO - [32mStudent department update succesfully .
+2026-09-11 16:44:51,108 - INFO - [32mStudent found on Roll No 9999 His Name is Ali .
+2026-09-11 16:44:51,110 - INFO - [32mSubject marks updated successfully.
+2026-09-11 16:44:51,112 - INFO - [32mStudent found on Roll No 9999 His Name is Ali .
+2026-09-11 16:44:51,112 - INFO - [32mStudent Name update succesfully .
+2026-09-11 16:44:51,117 - INFO - [32mStudent found on Roll No 9999 His Name is Ali .
+2026-09-11 16:44:51,117 - INFO - [32mStudent Roll No update succesfully .
+2026-09-11 16:44:51,120 - INFO - [32mStudent found on Roll No 9999 His Name is Ali and semester is 5.
+2026-09-11 16:44:51,120 - INFO - [32mStudent semester update succesfully .
+2026-09-11 16:44:51,123 - DEBUG - 15 not valid age .
+2026-09-11 16:44:51,124 - DEBUG - 31 not valid age .
+2026-09-11 16:44:51,125 - DEBUG - Computer_ no valid department 
+2026-09-11 16:44:51,125 - DEBUG - Computer123 no valid department 
+2026-09-11 16:44:51,126 - DEBUG - cs. no valid department 
+2026-09-11 16:44:51,127 - DEBUG - Length must be 3 or more .
+2026-09-11 16:44:51,127 - DEBUG - Invalid input .
+2026-09-11 16:44:51,127 - DEBUG - Invalid input .
+2026-09-11 16:44:51,127 - DEBUG - Invalid input .
+2026-09-11 16:44:51,128 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:44:51,128 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:44:51,128 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:44:51,129 - DEBUG - 9 Not valid semester .
+2026-09-11 16:44:51,129 - DEBUG - 0 Not valid semester .
+2026-09-11 16:44:51,129 - DEBUG - -1 Not valid semester .
+2026-09-11 16:49:38,659 - INFO - [32mStudent Add Succesfully .
+2026-09-11 16:49:38,661 - INFO - [32mStudent adding stopped successfully.
+2026-09-11 16:49:38,663 - INFO - [32mEnter student Name OR Enter Student Roll No to delete Student .
+
+2026-09-11 16:49:38,664 - INFO - [32mStudent delete succesfully .
+2026-09-11 16:49:38,665 - INFO - [32mOperation exit .
+2026-09-11 16:49:38,672 - INFO - [32mEnter Roll No Or Name to search Student .
+2026-09-11 16:49:38,674 - INFO - [32mOperation exit .
+2026-09-11 16:49:38,675 - INFO - User GPA calculation exit . 
+2026-09-11 16:49:38,678 - INFO - [32mStudent found on Roll No 9999 His Name is Ali and age is 20.
+2026-09-11 16:49:38,679 - INFO - [32mStudent age update succesfully .
+2026-09-11 16:49:38,682 - INFO - [32mStudent found on Roll No 9999 His Name is Ali and Department is Computer Science .
+2026-09-11 16:49:38,683 - INFO - [32mStudent department update succesfully .
+2026-09-11 16:49:38,690 - INFO - [32mStudent found on Roll No 9999 His Name is Ali .
+2026-09-11 16:49:38,691 - INFO - [32mSubject marks updated successfully.
+2026-09-11 16:49:38,693 - INFO - [32mStudent found on Roll No 9999 His Name is Ali .
+2026-09-11 16:49:38,694 - INFO - [32mStudent Name update succesfully .
+2026-09-11 16:49:38,696 - INFO - [32mStudent found on Roll No 9999 His Name is Ali .
+2026-09-11 16:49:38,697 - INFO - [32mStudent Roll No update succesfully .
+2026-09-11 16:49:38,701 - INFO - [32mStudent found on Roll No 9999 His Name is Ali and semester is 5.
+2026-09-11 16:49:38,702 - INFO - [32mStudent semester update succesfully .
+2026-09-11 16:49:38,705 - DEBUG - 15 is not a valid age.
+2026-09-11 16:49:38,705 - DEBUG - 31 is not a valid age.
+2026-09-11 16:49:38,706 - DEBUG - Computer_ is not a valid department.
+2026-09-11 16:49:38,706 - DEBUG - Computer123 is not a valid department.
+2026-09-11 16:49:38,706 - DEBUG - cs. is not a valid department.
+2026-09-11 16:49:38,707 - DEBUG - Student name must contain at least 3 characters.
+2026-09-11 16:49:38,708 - DEBUG - Invalid student name.
+2026-09-11 16:49:38,708 - DEBUG - Invalid student name.
+2026-09-11 16:49:38,708 - DEBUG - Invalid student name.
+2026-09-11 16:49:38,710 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:49:38,710 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:49:38,710 - DEBUG - [31mLen must be 4 character 
+2026-09-11 16:49:38,712 - DEBUG - 9 is not a valid semester.
+2026-09-11 16:49:38,712 - DEBUG - 0 is not a valid semester.
+2026-09-11 16:49:38,712 - DEBUG - -1 is not a valid semester.
+2026-09-11 17:03:32,635 - INFO - [32mStudent Add Succesfully .
+2026-09-11 17:03:32,644 - INFO - [32mStudent adding stopped successfully.
+2026-09-11 17:03:32,648 - INFO - [32mEnter student Name OR Enter Student Roll No to delete Student .
+
+2026-09-11 17:03:32,649 - INFO - [32mStudent delete succesfully .
+2026-09-11 17:03:32,650 - INFO - [32mOperation exit .
+2026-09-11 17:03:32,657 - INFO - [32mEnter Roll No Or Name to search Student .
+2026-09-11 17:03:32,658 - INFO - [32mOperation exit .
+2026-09-11 17:03:32,660 - INFO - User GPA calculation exit . 
+2026-09-11 17:03:32,664 - INFO - [32mStudent found on Roll No 9999 His Name is Ali and age is 20.
+2026-09-11 17:03:32,665 - INFO - [32mStudent age update succesfully .
+2026-09-11 17:03:32,667 - INFO - [32mStudent found on Roll No 9999 His Name is Ali and Department is Computer Science .
+2026-09-11 17:03:32,668 - INFO - [32mStudent department update succesfully .
+2026-09-11 17:03:32,671 - INFO - [32mStudent found on Roll No 9999 His Name is Ali .
+2026-09-11 17:03:32,672 - INFO - [32mSubject marks updated successfully.
+2026-09-11 17:03:32,675 - INFO - [32mStudent found on Roll No 9999 His Name is Ali .
+2026-09-11 17:03:32,676 - INFO - [32mStudent Name update succesfully .
+2026-09-11 17:03:32,679 - INFO - [32mStudent found on Roll No 9999 His Name is Ali .
+2026-09-11 17:03:32,679 - INFO - [32mStudent Roll No update succesfully .
+2026-09-11 17:03:32,683 - INFO - [32mStudent found on Roll No 9999 His Name is Ali and semester is 5.
+2026-09-11 17:03:32,684 - INFO - [32mStudent semester update succesfully .
+2026-09-11 17:03:32,688 - DEBUG - 15 is not a valid age.
+2026-09-11 17:03:32,688 - DEBUG - 31 is not a valid age.
+2026-09-11 17:03:32,691 - DEBUG - Computer_ is not a valid department.
+2026-09-11 17:03:32,692 - DEBUG - Computer123 is not a valid department.
+2026-09-11 17:03:32,692 - DEBUG - cs. is not a valid department.
+2026-09-11 17:03:32,693 - DEBUG - Student name must contain at least 3 characters.
+2026-09-11 17:03:32,694 - DEBUG - Invalid student name.
+2026-09-11 17:03:32,695 - DEBUG - Invalid student name.
+2026-09-11 17:03:32,695 - DEBUG - Invalid student name.
+2026-09-11 17:03:32,697 - DEBUG - [31mLen must be 4 character 
+2026-09-11 17:03:32,698 - DEBUG - [31mLen must be 4 character 
+2026-09-11 17:03:32,698 - DEBUG - [31mLen must be 4 character 
+2026-09-11 17:03:32,700 - DEBUG - 9 is not a valid semester.
+2026-09-11 17:03:32,700 - DEBUG - 0 is not a valid semester.
+2026-09-11 17:03:32,701 - DEBUG - -1 is not a valid semester.
+2026-09-11 17:46:59,947 - INFO - [32mStudent Add Succesfully .
+2026-09-11 17:46:59,950 - INFO - [32mStudent adding stopped successfully.
+2026-09-11 17:46:59,954 - INFO - [32mEnter student Name OR Enter Student Roll No to delete Student .
+
+2026-09-11 17:46:59,955 - INFO - [32mStudent delete succesfully .
+2026-09-11 17:46:59,960 - INFO - [32mOperation exit .
+2026-09-11 17:46:59,968 - INFO - [32mEnter Roll No Or Name to search Student .
+2026-09-11 17:46:59,969 - INFO - [32mOperation exit .
+2026-09-11 17:46:59,972 - INFO - User GPA calculation exit . 
+2026-09-11 17:46:59,975 - INFO - [32mStudent found on Roll No 9999 His Name is Ali and age is 20.
+2026-09-11 17:46:59,976 - INFO - [32mStudent age update succesfully .
+2026-09-11 17:46:59,979 - INFO - [32mStudent found on Roll No 9999 His Name is Ali and Department is Computer Science .
+2026-09-11 17:46:59,980 - INFO - [32mStudent department update succesfully .
+2026-09-11 17:46:59,984 - INFO - [32mStudent found on Roll No 9999 His Name is Ali .
+2026-09-11 17:46:59,986 - INFO - [32mSubject marks updated successfully.
+2026-09-11 17:46:59,989 - INFO - [32mStudent found on Roll No 9999 His Name is Ali .
+2026-09-11 17:46:59,990 - INFO - [32mStudent Name update succesfully .
+2026-09-11 17:46:59,995 - INFO - [32mStudent found on Roll No 9999 His Name is Ali .
+2026-09-11 17:46:59,995 - INFO - [32mStudent Roll No update succesfully .
+2026-09-11 17:46:59,998 - INFO - [32mStudent found on Roll No 9999 His Name is Ali and semester is 5.
+2026-09-11 17:47:00,000 - INFO - [32mStudent semester update succesfully .
+2026-09-11 17:47:00,002 - DEBUG - 15 is not a valid age.
+2026-09-11 17:47:00,003 - DEBUG - 31 is not a valid age.
+2026-09-11 17:47:00,004 - DEBUG - Computer_ is not a valid department.
+2026-09-11 17:47:00,004 - DEBUG - Computer123 is not a valid department.
+2026-09-11 17:47:00,004 - DEBUG - cs. is not a valid department.
+2026-09-11 17:47:00,006 - DEBUG - Student name must contain at least 3 characters.
+2026-09-11 17:47:00,006 - DEBUG - Invalid student name.
+2026-09-11 17:47:00,006 - DEBUG - Invalid student name.
+2026-09-11 17:47:00,006 - DEBUG - Invalid student name.
+2026-09-11 17:47:00,008 - DEBUG - [31mLen must be 4 character 
+2026-09-11 17:47:00,009 - DEBUG - [31mLen must be 4 character 
+2026-09-11 17:47:00,009 - DEBUG - [31mLen must be 4 character 
+2026-09-11 17:47:00,011 - DEBUG - 9 is not a valid semester.
+2026-09-11 17:47:00,012 - DEBUG - 0 is not a valid semester.
+2026-09-11 17:47:00,012 - DEBUG - -1 is not a valid semester.
+2026-09-11 21:08:09,736 - WARNING - [31mJSON is empty or contains invalid data.
+2026-09-11 21:09:01,084 - INFO - [32mStudent Add Succesfully .
+2026-09-11 21:09:01,087 - INFO - Data saved to file successfully.
+2026-09-11 21:09:10,396 - INFO - [32mStudent adding stopped successfully.
+2026-09-11 21:11:52,296 - INFO - [32mStudent Add Succesfully .
+2026-09-11 21:11:52,299 - INFO - Data saved to file successfully.
+2026-09-11 21:12:45,565 - INFO - [32mStudent Add Succesfully .
+2026-09-11 21:12:45,568 - INFO - Data saved to file successfully.
+2026-09-11 21:12:48,577 - INFO - [32mStudent adding stopped successfully.
+2026-09-11 21:15:12,900 - INFO - [32mStudent Add Succesfully .[39m
+2026-09-11 21:15:12,903 - INFO - Data saved to file successfully.
+2026-09-11 21:15:22,321 - INFO - [32mStudent adding stopped successfully.
+2026-09-11 21:15:30,610 - INFO - [32mEnter Roll No Or Name to search Student .
+2026-09-11 21:15:44,950 - INFO - [32mOperation exit .
+2026-09-11 21:15:47,461 - INFO - --: Welcome to Student Updation  Menu :-----
